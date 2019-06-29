@@ -26,16 +26,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "Kuru\u00e7e\u015fme"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0440\u0443\u0447\u0435\u0448\u043c\u0435"
     ],
     "name:cat_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
     "name:dan_x_preferred":[
@@ -44,7 +41,7 @@
     "name:deu_x_preferred":[
         "Turkcell Kuru\u00e7e\u015fme Arena"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Kuru\u00e7e\u015fme"
     ],
     "name:eng_x_colloquial":[
@@ -53,16 +50,19 @@
     "name:eng_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
     "name:glg_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
     "name:ita_x_preferred":[
+        "Kuru\u00e7e\u015fme"
+    ],
+    "name:nld_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
     "name:nno_x_preferred":[
@@ -80,13 +80,13 @@
     "name:por_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
     "name:sco_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
     "name:slv_x_preferred":[
@@ -156,7 +156,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536868710,
+    "wof:lastmodified":1561772245,
     "wof:name":"Kurucesme",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

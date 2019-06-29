@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000434,
-    "geom:area_square_m":4051005.701829,
+    "geom:area_square_m":4051005.701828,
     "geom:bbox":"28.8705050406,40.9641231988,28.8995361328,40.9879373702",
     "geom:latitude":40.977415,
     "geom:longitude":28.886394,
@@ -24,28 +24,25 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "Cevizli"
-    ],
     "name:cat_x_preferred":[
         "Cevizli"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Cevizli"
     ],
     "name:dan_x_preferred":[
         "Cevizli"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cevizli"
     ],
     "name:eng_x_preferred":[
         "Cevizli"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "Cevizli"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "Cevizli"
     ],
     "name:glg_x_preferred":[
@@ -58,6 +55,9 @@
         "Cevizli"
     ],
     "name:msa_x_preferred":[
+        "Cevizli"
+    ],
+    "name:nld_x_preferred":[
         "Cevizli"
     ],
     "name:nno_x_preferred":[
@@ -75,13 +75,13 @@
     "name:por_x_preferred":[
         "Cevizli"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cevizli"
     ],
     "name:sco_x_preferred":[
         "Cevizli"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cevizli"
     ],
     "name:slv_x_preferred":[
@@ -169,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268676,
+    "wof:lastmodified":1561772244,
     "wof:name":"Cevizlik",
     "wof:parent_id":101912673,
     "wof:placetype":"neighbourhood",

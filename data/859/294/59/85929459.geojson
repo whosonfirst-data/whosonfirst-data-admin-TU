@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000128,
-    "geom:area_square_m":1189951.106378,
+    "geom:area_square_m":1189951.106377,
     "geom:bbox":"29.0368652344,41.0627860606,29.0505981445,41.0752102706",
     "geom:latitude":41.069932,
     "geom:longitude":29.043876,
@@ -24,14 +24,8 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:alb_x_preferred":[
-        "Arnavutkoj"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u043d\u0430\u0432\u0443\u0442\u043a\u044c\u043e\u0439"
-    ],
-    "name:dut_x_preferred":[
-        "Arnavutk\u00f6y"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ad\u03b3\u03b1 \u03a1\u03b5\u03cd\u03bc\u03b1"
@@ -45,12 +39,6 @@
     "name:fra_x_preferred":[
         "Arnavutk\u00f6y"
     ],
-    "name:fre_x_preferred":[
-        "Arnavutk\u00f6y"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ad\u03b3\u03b1 \u03a1\u03b5\u03cd\u03bc\u03b1"
-    ],
     "name:hbs_x_preferred":[
         "Arnavutk\u00f6y"
     ],
@@ -63,11 +51,11 @@
     "name:lit_x_preferred":[
         "Arnavutk\u0117jus"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0440\u043d\u0430\u0443\u0442\u043a\u043e\u0458"
-    ],
     "name:min_x_preferred":[
         "Arnavutk\u00f6y"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u043d\u0430\u0443\u0442\u043a\u043e\u0458"
     ],
     "name:nan_x_preferred":[
         "Arnavutk\u00f6y"
@@ -151,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268886,
+    "wof:lastmodified":1561772246,
     "wof:name":"Arnavutkoy",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

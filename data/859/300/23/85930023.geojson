@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000865,
-    "geom:area_square_m":8068984.42511,
+    "geom:area_square_m":8068984.425114,
     "geom:bbox":"29.0914735169,40.9779641934,29.1320092774,41.0095934064",
     "geom:latitude":40.994433,
     "geom:longitude":29.111166,
@@ -25,34 +25,34 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "Barbaros"
-    ],
     "name:cat_x_preferred":[
         "Barbaros"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Barbaros"
     ],
     "name:dan_x_preferred":[
         "Barbaros"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Barbaros"
     ],
     "name:eng_x_preferred":[
         "Barbaros"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "Barbaros"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "Barbaros"
     ],
     "name:glg_x_preferred":[
         "Barbaros"
     ],
     "name:ita_x_preferred":[
+        "Barbaros"
+    ],
+    "name:nld_x_preferred":[
         "Barbaros"
     ],
     "name:nno_x_preferred":[
@@ -70,13 +70,13 @@
     "name:por_x_preferred":[
         "Barbaros"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Barbaros"
     ],
     "name:sco_x_preferred":[
         "Barbaros"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Barbaros"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268676,
+    "wof:lastmodified":1561772244,
     "wof:name":"Barbaros",
     "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",

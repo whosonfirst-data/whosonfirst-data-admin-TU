@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000128,
-    "geom:area_square_m":1192501.256896,
+    "geom:area_square_m":1192501.256897,
     "geom:bbox":"28.9913197546,41.0731395703,29.00390625,41.0888896615",
     "geom:latitude":41.080735,
     "geom:longitude":28.998467,
@@ -25,19 +25,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "G\u00fcltepe"
-    ],
     "name:cat_x_preferred":[
         "G\u00fcltepe"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "G\u00fcltepe"
     ],
     "name:dan_x_preferred":[
         "G\u00fcltepe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "G\u00fcltepe"
     ],
     "name:eng_x_colloquial":[
@@ -46,16 +43,19 @@
     "name:eng_x_preferred":[
         "G\u00fcltepe"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "G\u00fcltepe"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "G\u00fcltepe"
     ],
     "name:glg_x_preferred":[
         "G\u00fcltepe"
     ],
     "name:ita_x_preferred":[
+        "G\u00fcltepe"
+    ],
+    "name:nld_x_preferred":[
         "G\u00fcltepe"
     ],
     "name:nno_x_preferred":[
@@ -73,13 +73,13 @@
     "name:por_x_preferred":[
         "G\u00fcltepe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "G\u00fcltepe"
     ],
     "name:sco_x_preferred":[
         "G\u00fcltepe"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "G\u00fcltepe"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268887,
+    "wof:lastmodified":1561772247,
     "wof:name":"Ortabay\u0131r",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":1862208.923485,
+    "geom:area_square_m":1862208.923484,
     "geom:bbox":"29.0258789062,40.9964839492,29.0463997741,41.008920735",
     "geom:latitude":41.003185,
     "geom:longitude":29.035589,
@@ -25,19 +25,16 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "Ko\u015fuyolu"
-    ],
     "name:cat_x_preferred":[
         "Ko\u015fuyolu"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ko\u015fuyolu"
     ],
     "name:dan_x_preferred":[
         "Ko\u015fuyolu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ko\u015fuyolu"
     ],
     "name:eng_x_colloquial":[
@@ -46,16 +43,19 @@
     "name:eng_x_preferred":[
         "Ko\u015fuyolu"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "Ko\u015fuyolu"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "Ko\u015fuyolu"
     ],
     "name:glg_x_preferred":[
         "Ko\u015fuyolu"
     ],
     "name:ita_x_preferred":[
+        "Ko\u015fuyolu"
+    ],
+    "name:nld_x_preferred":[
         "Ko\u015fuyolu"
     ],
     "name:nno_x_preferred":[
@@ -73,13 +73,13 @@
     "name:por_x_preferred":[
         "Ko\u015fuyolu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ko\u015fuyolu"
     ],
     "name:sco_x_preferred":[
         "Ko\u015fuyolu"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ko\u015fuyolu"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268902,
+    "wof:lastmodified":1561772247,
     "wof:name":"Ko\u015fuyolu",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

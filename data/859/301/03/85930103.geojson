@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000591,
-    "geom:area_square_m":5508633.581886,
+    "geom:area_square_m":5508633.581887,
     "geom:bbox":"28.9369652801,41.0545018981,28.9617211914,41.0831397007",
     "geom:latitude":41.068878,
     "geom:longitude":28.950336,
@@ -25,34 +25,34 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "Emniyettepe"
-    ],
     "name:cat_x_preferred":[
         "Emniyettepe"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Emniyettepe"
     ],
     "name:dan_x_preferred":[
         "Emniyettepe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Emniyettepe"
     ],
     "name:eng_x_preferred":[
         "Emniyettepe"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "Emniyettepe"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "Emniyettepe"
     ],
     "name:glg_x_preferred":[
         "Emniyettepe"
     ],
     "name:ita_x_preferred":[
+        "Emniyettepe"
+    ],
+    "name:nld_x_preferred":[
         "Emniyettepe"
     ],
     "name:nno_x_preferred":[
@@ -70,13 +70,13 @@
     "name:por_x_preferred":[
         "Emniyettepe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Emniyettepe"
     ],
     "name:sco_x_preferred":[
         "Emniyettepe"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Emniyettepe"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268715,
+    "wof:lastmodified":1561772244,
     "wof:name":"Emniyettepe",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

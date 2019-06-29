@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":670294.614093,
+    "geom:area_square_m":670294.614094,
     "geom:bbox":"29.0193087993,41.0627860035,29.0322694957,41.0710691308",
     "geom:latitude":41.067556,
     "geom:longitude":29.025119,
@@ -25,9 +25,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "Ulus"
-    ],
     "name:bel_x_preferred":[
         "\u0423\u043b\u0443\u0441"
     ],
@@ -43,26 +40,20 @@
     "name:ces_x_preferred":[
         "Ulus"
     ],
-    "name:cze_x_preferred":[
-        "Ulus"
-    ],
     "name:dan_x_preferred":[
         "Ulus"
     ],
     "name:deu_x_preferred":[
         "Ulus"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Ulus"
     ],
-    "name:eng_x_preferred":[
+    "name:eus_x_preferred":[
         "Ulus"
     ],
     "name:fin_x_preferred":[
         "Uluus"
-    ],
-    "name:ger_x_preferred":[
-        "Ulus"
     ],
     "name:glg_x_preferred":[
         "Ulus"
@@ -100,7 +91,7 @@
     "name:por_x_preferred":[
         "Ulus"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ulus"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +103,7 @@
     "name:sco_x_preferred":[
         "Ulus"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ulus"
     ],
     "name:slv_x_preferred":[
@@ -176,7 +167,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527268887,
+    "wof:lastmodified":1561772247,
     "wof:name":"Ulus",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

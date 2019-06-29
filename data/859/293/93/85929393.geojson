@@ -25,34 +25,34 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "Balmumcu"
-    ],
     "name:cat_x_preferred":[
         "Balmumcu"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Balmumcu"
     ],
     "name:dan_x_preferred":[
         "Balmumcu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Balmumcu"
     ],
     "name:eng_x_preferred":[
         "Balmumcu"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "Balmumcu"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "Balmumcu"
     ],
     "name:glg_x_preferred":[
         "Balmumcu"
     ],
     "name:ita_x_preferred":[
+        "Balmumcu"
+    ],
+    "name:nld_x_preferred":[
         "Balmumcu"
     ],
     "name:nno_x_preferred":[
@@ -70,13 +70,13 @@
     "name:por_x_preferred":[
         "Balmumcu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Balmumcu"
     ],
     "name:sco_x_preferred":[
         "Balmumcu"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Balmumcu"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527268901,
+    "wof:lastmodified":1561772247,
     "wof:name":"Balmumcu",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

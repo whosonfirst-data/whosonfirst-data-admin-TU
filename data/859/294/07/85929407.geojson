@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":2718658.75001,
+    "geom:area_square_m":2718658.750009,
     "geom:bbox":"28.9984130859,41.0547773787,29.0203857422,41.0752102706",
     "geom:latitude":41.066756,
     "geom:longitude":29.009258,
@@ -25,34 +25,34 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "Gayrettepe"
-    ],
     "name:cat_x_preferred":[
         "Gayrettepe"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Gayrettepe"
     ],
     "name:dan_x_preferred":[
         "Gayrettepe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gayrettepe"
     ],
     "name:eng_x_preferred":[
         "Gayrettepe"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "Gayrettepe"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "Gayrettepe"
     ],
     "name:glg_x_preferred":[
         "Gayrettepe"
     ],
     "name:ita_x_preferred":[
+        "Gayrettepe"
+    ],
+    "name:nld_x_preferred":[
         "Gayrettepe"
     ],
     "name:nno_x_preferred":[
@@ -70,13 +70,13 @@
     "name:por_x_preferred":[
         "Gayrettepe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gayrettepe"
     ],
     "name:sco_x_preferred":[
         "Gayrettepe"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gayrettepe"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527268887,
+    "wof:lastmodified":1561772247,
     "wof:name":"Gayrettepe",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

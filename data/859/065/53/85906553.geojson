@@ -25,19 +25,16 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "\u015eehitmuhtar"
-    ],
     "name:cat_x_preferred":[
         "\u015eehitmuhtar"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u015eehitmuhtar"
     ],
     "name:dan_x_preferred":[
         "\u015eehitmuhtar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u015eehitmuhtar"
     ],
     "name:eng_x_colloquial":[
@@ -46,16 +43,19 @@
     "name:eng_x_preferred":[
         "\u015eehit Muhtar"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "\u015eehitmuhtar"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "\u015eehitmuhtar"
     ],
     "name:glg_x_preferred":[
         "\u015eehitmuhtar"
     ],
     "name:ita_x_preferred":[
+        "\u015eehitmuhtar"
+    ],
+    "name:nld_x_preferred":[
         "\u015eehitmuhtar"
     ],
     "name:nno_x_preferred":[
@@ -73,13 +73,13 @@
     "name:por_x_preferred":[
         "\u015eehitmuhtar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u015eehitmuhtar"
     ],
     "name:sco_x_preferred":[
         "\u015eehitmuhtar"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u015eehitmuhtar"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268837,
+    "wof:lastmodified":1561772246,
     "wof:name":"Sehit Muhtar",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

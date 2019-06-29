@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":1964584.65463,
+    "geom:area_square_m":1964584.654629,
     "geom:bbox":"29.0415499163,40.9778245169,29.0643310547,40.9923375934",
     "geom:latitude":40.984127,
     "geom:longitude":29.052531,
@@ -25,34 +25,34 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "Feneryolu"
-    ],
     "name:cat_x_preferred":[
         "Feneryolu"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Feneryolu"
     ],
     "name:dan_x_preferred":[
         "Feneryolu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Feneryolu"
     ],
     "name:eng_x_preferred":[
         "Feneryolu"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "Feneryolu"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "Feneryolu"
     ],
     "name:glg_x_preferred":[
         "Feneryolu"
     ],
     "name:ita_x_preferred":[
+        "Feneryolu"
+    ],
+    "name:nld_x_preferred":[
         "Feneryolu"
     ],
     "name:nno_x_preferred":[
@@ -70,13 +70,13 @@
     "name:por_x_preferred":[
         "Feneryolu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Feneryolu"
     ],
     "name:sco_x_preferred":[
         "Feneryolu"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Feneryolu"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527268887,
+    "wof:lastmodified":1561772247,
     "wof:name":"Feneryolu",
     "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0018,
-    "geom:area_square_m":16799560.020758,
+    "geom:area_square_m":16799560.020756,
     "geom:bbox":"27.4779201405,40.9295915062,27.6470179434,40.9976792981",
     "geom:latitude":40.975547,
     "geom:longitude":27.524311,
@@ -19,9 +19,6 @@
     "mz:min_zoom":6.7,
     "name:ara_x_preferred":[
         "\u062a\u0643\u064a\u0631\u062f\u0627\u063a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u0584\u056b\u0580\u0564\u0561\u0572"
     ],
     "name:azb_x_preferred":[
         "\u062a\u06a9\u06cc\u0631\u062f\u0627\u063a"
@@ -50,19 +47,10 @@
     "name:ces_x_preferred":[
         "Tekirda\u011f"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u57fa\u723e\u9054"
-    ],
-    "name:cze_x_preferred":[
-        "Tekirda\u011f"
-    ],
     "name:dan_x_preferred":[
         "Tekirda\u011f"
     ],
     "name:deu_x_preferred":[
-        "Tekirda\u011f"
-    ],
-    "name:dut_x_preferred":[
         "Tekirda\u011f"
     ],
     "name:ell_x_preferred":[
@@ -83,20 +71,8 @@
     "name:fra_x_preferred":[
         "Tekirda\u011f"
     ],
-    "name:fre_x_preferred":[
-        "Tekirda\u011f"
-    ],
     "name:gag_x_preferred":[
         "Tekirdaa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d4\u10e5\u10d8\u10e0\u10d3\u10d0\u10e6\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tekirda\u011f"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b1\u03b9\u03b4\u03b5\u03c3\u03c4\u03cc\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0a95\u0abf\u0ab0\u0aa1\u0abe\u0a97"
@@ -109,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Rodost\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u0584\u056b\u0580\u0564\u0561\u0572"
     ],
     "name:ind_x_preferred":[
         "Tekirda\u011f"
@@ -149,20 +128,20 @@
     "name:lrc_x_preferred":[
         "\u062a\u06a9\u06cc\u0631\u062f\u0627\u063a"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0435\u043a\u0438\u0440\u0434\u0430\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u091f\u0947\u0915\u0940\u0930\u0921\u093e\u0917"
-    ],
-    "name:may_x_preferred":[
-        "Tekirda\u011f"
     ],
     "name:min_x_preferred":[
         "Tekirda\u011f"
     ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0435\u043a\u0438\u0440\u0434\u0430\u0433"
+    ],
     "name:mrj_x_preferred":[
         "\u0422\u0435\u043a\u0438\u0440\u0434\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Tekirda\u011f"
     ],
     "name:nan_x_preferred":[
         "Tekirda\u011f"
@@ -176,9 +155,6 @@
     "name:nob_x_preferred":[
         "Tekirda\u011f"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u06a9\u06cc\u0631\u062f\u0627\u063a"
-    ],
     "name:pnb_x_preferred":[
         "\u062a\u06cc\u06a9\u0631\u062f\u0627\u063a"
     ],
@@ -188,7 +164,7 @@
     "name:por_x_preferred":[
         "Tekirda\u011f"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tekirda\u011f"
     ],
     "name:rus_x_preferred":[
@@ -390,7 +366,7 @@
         }
     ],
     "wof:id":101910981,
-    "wof:lastmodified":1527715936,
+    "wof:lastmodified":1561772248,
     "wof:name":"Tekirda\u011f",
     "wof:parent_id":890461857,
     "wof:placetype":"locality",
