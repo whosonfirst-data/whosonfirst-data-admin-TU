@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":847301.816404,
+    "geom:area_square_m":847301.816403,
     "geom:bbox":"28.9434814453,41.0400022589,28.9572143555,41.048323661",
     "geom:latitude":41.044223,
     "geom:longitude":28.949796,
@@ -25,19 +25,16 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "Piripa\u015fa"
-    ],
     "name:cat_x_preferred":[
         "Piripa\u015fa"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Piripa\u015fa"
     ],
     "name:dan_x_preferred":[
         "Piripa\u015fa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Piripa\u015fa"
     ],
     "name:eng_x_colloquial":[
@@ -46,16 +43,19 @@
     "name:eng_x_preferred":[
         "Piri Pa\u015fa"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "Piripa\u015fa"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "Piripa\u015fa"
     ],
     "name:glg_x_preferred":[
         "Piripa\u015fa"
     ],
     "name:ita_x_preferred":[
+        "Piripa\u015fa"
+    ],
+    "name:nld_x_preferred":[
         "Piripa\u015fa"
     ],
     "name:nno_x_preferred":[
@@ -73,13 +73,13 @@
     "name:por_x_preferred":[
         "Piripa\u015fa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Piripa\u015fa"
     ],
     "name:sco_x_preferred":[
         "Piripa\u015fa"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Piripa\u015fa"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268837,
+    "wof:lastmodified":1561772246,
     "wof:name":"Piri Pasa",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

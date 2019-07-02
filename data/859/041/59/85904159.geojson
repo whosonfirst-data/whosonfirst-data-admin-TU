@@ -39,15 +39,6 @@
     "name:fra_x_preferred":[
         "Tophane"
     ],
-    "name:fre_x_preferred":[
-        "Tophane"
-    ],
-    "name:ger_x_preferred":[
-        "Tophane"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c0 \u03a7\u03b1\u03bd\u03ad"
-    ],
     "name:jpn_x_preferred":[
         "\u30c8\u30d7\u30cf\u30fc\u30cd"
     ],
@@ -125,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527638353,
+    "wof:lastmodified":1561772245,
     "wof:name":"Tophane",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

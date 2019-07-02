@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
-    "geom:area_square_m":228263.86355,
+    "geom:area_square_m":228263.863549,
     "geom:bbox":"28.9701392012,41.0247179601,28.977046482,41.0303574849",
     "geom:latitude":41.027862,
     "geom:longitude":28.973483,
@@ -25,25 +25,25 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:baq_x_preferred":[
-        "\u015eahkulu"
-    ],
     "name:cat_x_preferred":[
         "\u015eahkulu"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u015eahkulu"
     ],
     "name:dan_x_preferred":[
         "\u015eahkulu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u015eahkulu"
     ],
     "name:eng_x_colloquial":[
         "Sahkulu"
     ],
     "name:eng_x_preferred":[
+        "\u015eahkulu"
+    ],
+    "name:eus_x_preferred":[
         "\u015eahkulu"
     ],
     "name:fas_x_preferred":[
@@ -55,13 +55,13 @@
     "name:fra_x_preferred":[
         "Shahkulu Baba"
     ],
-    "name:ger_x_preferred":[
-        "\u015eahkulu"
-    ],
     "name:glg_x_preferred":[
         "\u015eahkulu"
     ],
     "name:ita_x_preferred":[
+        "\u015eahkulu"
+    ],
+    "name:nld_x_preferred":[
         "\u015eahkulu"
     ],
     "name:nno_x_preferred":[
@@ -79,7 +79,7 @@
     "name:por_x_preferred":[
         "\u015eahkulu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u015eahkulu"
     ],
     "name:rus_x_preferred":[
@@ -88,7 +88,7 @@
     "name:sco_x_preferred":[
         "\u015eahkulu"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u015eahkulu"
     ],
     "name:slv_x_preferred":[
@@ -149,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268837,
+    "wof:lastmodified":1561772246,
     "wof:name":"Sahkulu",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

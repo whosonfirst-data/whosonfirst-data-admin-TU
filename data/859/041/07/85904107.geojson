@@ -32,7 +32,7 @@
     "name:eng_x_preferred":[
         "Harbiye"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Harbiye"
     ],
     "name:min_x_preferred":[
@@ -105,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527638353,
+    "wof:lastmodified":1561772245,
     "wof:name":"Harbiye",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",
