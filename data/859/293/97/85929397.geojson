@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":354722.230239,
+    "geom:area_square_m":354722.230238,
     "geom:bbox":"28.9956665039,41.0503595106,29.004714105,41.0555732028",
     "geom:latitude":41.052538,
     "geom:longitude":28.999928,
@@ -24,6 +24,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0648\u064a\u0643\u064a\u0651\u0629"
+    ],
     "name:eng_x_colloquial":[
         "Tesvikiye"
     ],
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268902,
+    "wof:lastmodified":1563245984,
     "wof:name":"Te\u015fvikiye",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

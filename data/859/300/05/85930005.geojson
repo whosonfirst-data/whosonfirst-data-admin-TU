@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000318,
-    "geom:area_square_m":2967392.032507,
+    "geom:area_square_m":2967392.032506,
     "geom:bbox":"29.0746047994,40.9467133392,29.0972900391,40.97303137",
     "geom:latitude":40.959501,
     "geom:longitude":29.086179,
@@ -25,6 +25,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0632\u064a\u062a\u0627\u063a"
+    ],
     "name:eng_x_preferred":[
         "Kozyata\u011f\u0131"
     ],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268676,
+    "wof:lastmodified":1563245963,
     "wof:name":"Kozyatagi",
     "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",

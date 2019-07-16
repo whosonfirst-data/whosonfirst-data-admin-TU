@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
-    "geom:area_square_m":3451682.943283,
+    "geom:area_square_m":3451682.943282,
     "geom:bbox":"28.9691870118,41.064856769,28.9954326566,41.0831397007",
     "geom:latitude":41.074479,
     "geom:longitude":28.981071,
@@ -28,6 +28,9 @@
     "name:ava_x_preferred":[
         "\u0425\u04c0\u0443\u0440\u0438\u0435\u0442"
     ],
+    "name:aze_x_preferred":[
+        "H\u00fcrriyet"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u044e\u0440\u0438\u0435\u0442"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03bf\u03c5\u03c1\u03b9\u03ad\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00fcrriyet"
     ],
     "name:fas_x_preferred":[
         "\u062d\u0631\u06cc\u062a"
@@ -52,7 +58,52 @@
     "name:hun_x_preferred":[
         "H\u00fcrriyet"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0582\u0580\u056b\u0565\u0569"
+    ],
+    "name:ind_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30e5\u30c3\u30ea\u30a4\u30a7\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud734\ub9ac\uc608\ud2b8"
+    ],
+    "name:kur_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:lad_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:lat_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:lbe_x_preferred":[
+        "\u0425\u04c0\u0443\u0440\u0438\u0435\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:nob_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:por_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:rus_x_preferred":[
+        "H\u00fcrriyet"
+    ],
     "name:spa_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u0440\u0438\u0458\u0435\u0442"
+    ],
+    "name:tur_x_preferred":[
         "H\u00fcrriyet"
     ],
     "name:und_x_colloquial":[
@@ -63,6 +114,9 @@
     ],
     "name:unk_x_variant":[
         "H\u00fcrriyet"
+    ],
+    "name:zho_x_preferred":[
+        "\u81ea\u7531\u5831"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -123,7 +177,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268676,
+    "wof:lastmodified":1563245964,
     "wof:name":"H\u00fcrriyet",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

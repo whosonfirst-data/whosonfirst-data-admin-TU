@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Balta Limani"
     ],
+    "name:eng_x_variant":[
+        "Baltaliman\u0131"
+    ],
     "name:tur_x_preferred":[
         "Baltaliman\u0131"
     ],
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269145,
+    "wof:lastmodified":1563245987,
     "wof:name":"Baltalimani",
     "wof:parent_id":101912659,
     "wof:placetype":"neighbourhood",

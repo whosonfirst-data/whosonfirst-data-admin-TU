@@ -25,7 +25,13 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0634\u0648\u064a\u0648\u0644\u0648"
+    ],
     "name:cat_x_preferred":[
+        "Ko\u015fuyolu"
+    ],
+    "name:ceb_x_preferred":[
         "Ko\u015fuyolu"
     ],
     "name:ces_x_preferred":[
@@ -139,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561772247,
+    "wof:lastmodified":1563245983,
     "wof:name":"Ko\u015fuyolu",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

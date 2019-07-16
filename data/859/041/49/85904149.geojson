@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0637\u0627\u0643\u0648\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0631\u0637\u0629 \u0643\u0648\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0442\u0430\u043a\u044c\u043e\u0439"
     ],
@@ -98,6 +101,9 @@
     "name:tur_x_preferred":[
         "Ortak\u00f6y"
     ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0442\u0430\u043a\u0435\u0439"
+    ],
     "name:und_x_preferred":[
         "Ortak\u00f6y"
     ],
@@ -150,7 +156,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561772245,
+    "wof:lastmodified":1563245970,
     "wof:name":"Ortakoy",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

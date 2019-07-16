@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0631\u0628\u064a\u0629\u060c \u0634\u064a\u0634\u0644\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062d\u0631\u0628\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Harbiye"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:min_x_preferred":[
         "Harbiye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0431\u0438\u0439\u0435"
     ],
     "name:tur_x_preferred":[
         "Harbiye"
@@ -105,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561772245,
+    "wof:lastmodified":1563245969,
     "wof:name":"Harbiye",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

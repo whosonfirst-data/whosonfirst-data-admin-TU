@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000583,
-    "geom:area_square_m":5443794.780198,
+    "geom:area_square_m":5443794.780196,
     "geom:bbox":"29.09071885,40.9606189695,29.1260367485,40.9840449469",
     "geom:latitude":40.972994,
     "geom:longitude":29.109035,
@@ -25,6 +25,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u062a\u0634\u064a\u0631\u064a\u0646\u0643\u0648\u064a\u0648"
+    ],
     "name:eng_x_preferred":[
         "\u0130\u00e7erenk\u00f6y"
     ],
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268716,
+    "wof:lastmodified":1563245968,
     "wof:name":"I\u00e7erenk\u00f6y",
     "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",

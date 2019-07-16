@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Piripa\u015fa"
     ],
+    "name:ceb_x_preferred":[
+        "Piripa\u015fa"
+    ],
     "name:ces_x_preferred":[
         "Piripa\u015fa"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Piri Pa\u015fa"
+    ],
+    "name:eng_x_variant":[
+        "Piripa\u015fa"
     ],
     "name:eus_x_preferred":[
         "Piripa\u015fa"
@@ -142,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561772246,
+    "wof:lastmodified":1563245973,
     "wof:name":"Piri Pasa",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

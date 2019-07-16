@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Yahya K\u00e2hya"
     ],
+    "name:ceb_x_preferred":[
+        "Yahya K\u00e2hya"
+    ],
     "name:ces_x_preferred":[
         "Yahya K\u00e2hya"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:eng_x_preferred":[
         "Yahya Kahya"
+    ],
+    "name:eng_x_variant":[
+        "Yahya K\u00e2hya"
     ],
     "name:eus_x_preferred":[
         "Yahya K\u00e2hya"
@@ -133,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561772246,
+    "wof:lastmodified":1563245974,
     "wof:name":"Yahya Kahya",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
