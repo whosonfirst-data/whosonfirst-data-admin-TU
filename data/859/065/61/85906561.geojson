@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
-    "geom:area_square_m":514616.372718,
+    "geom:area_square_m":514616.372717,
     "geom:bbox":"28.9709472656,41.0379306225,28.9805603027,41.0462168145",
     "geom:latitude":41.042106,
     "geom:longitude":28.975693,
@@ -25,19 +25,37 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Yeni\u015fehir"
+    ],
     "name:deu_x_preferred":[
         "Yeni\u015fehir"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b5\u03bd\u03b9\u03c3\u03b5\u03c7\u03af\u03c1"
     ],
     "name:eng_x_colloquial":[
         "Yenisehir"
     ],
+    "name:eng_x_preferred":[
+        "Yeni\u015fehir"
+    ],
+    "name:fra_x_preferred":[
+        "Yeni\u015fehir"
+    ],
     "name:gag_x_preferred":[
         "Yeni\u015fehir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05e0\u05d9\u05e9\u05d4\u05d9\u05e8"
     ],
     "name:min_x_preferred":[
         "Yeni\u015fehir"
     ],
     "name:msa_x_preferred":[
+        "Yeni\u015fehir"
+    ],
+    "name:nld_x_preferred":[
         "Yeni\u015fehir"
     ],
     "name:rus_x_preferred":[
@@ -50,6 +68,9 @@
         "Yeni\u015fehir"
     ],
     "name:unk_x_variant":[
+        "Yeni\u015fehir"
+    ],
+    "name:vie_x_preferred":[
         "Yeni\u015fehir"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -111,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268836,
+    "wof:lastmodified":1563245971,
     "wof:name":"Yeni\u015fehir",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

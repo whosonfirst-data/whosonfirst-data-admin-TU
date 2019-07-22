@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "G\u00fcltepe"
     ],
+    "name:ceb_x_preferred":[
+        "G\u00fcltepe"
+    ],
     "name:ces_x_preferred":[
         "G\u00fcltepe"
     ],
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561772247,
+    "wof:lastmodified":1563245980,
     "wof:name":"Ortabay\u0131r",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

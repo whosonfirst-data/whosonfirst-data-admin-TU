@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2459306.880704,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.678257,36.886605,30.678257,36.886605",
     "geom:latitude":36.886605,
     "geom:longitude":30.678257,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Varl\u0131k"
+    ],
     "name:tur_x_preferred":[
         "Varl\u0131k"
     ],
@@ -65,11 +68,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":75,
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
         101912921,
-        1108709655,
-        85679263
+        1108709655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939172,
+    "wof:lastmodified":1563245966,
     "wof:name":"Varlik",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

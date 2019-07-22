@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Katip Mustafa \u00c7elebi"
     ],
+    "name:ceb_x_preferred":[
+        "Katip Mustafa \u00c7elebi"
+    ],
     "name:ces_x_preferred":[
         "Katip Mustafa \u00c7elebi"
     ],
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561772246,
+    "wof:lastmodified":1563245972,
     "wof:name":"Katip Mustafa \u00c7elebi",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

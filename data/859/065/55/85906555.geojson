@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
-    "geom:area_square_m":221807.532853,
+    "geom:area_square_m":221807.532854,
     "geom:bbox":"28.9791870117,41.0375770922,28.9878307352,41.0415595014",
     "geom:latitude":41.039512,
     "geom:longitude":28.983438,
@@ -25,16 +25,205 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:afr_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:arg_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:ast_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:bar_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:bre_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:cat_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:ces_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:cos_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:cym_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:dan_x_preferred":[
+        "Kocatepe"
+    ],
     "name:deu_x_preferred":[
         "Kocatepe"
     ],
     "name:eng_x_preferred":[
         "Kocatepe"
     ],
+    "name:epo_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:est_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:eus_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:fin_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:fra_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:frp_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:fur_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:gla_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:gle_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:glg_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:gsw_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:hrv_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:ido_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:ile_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:ina_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:ind_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:isl_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:ita_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:kon_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:lij_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:lim_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:ltz_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:min_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:mlg_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:msa_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:nap_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:nds_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:nld_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:nno_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:nob_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:nrm_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:oci_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:pcd_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:pms_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:pol_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:por_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:roh_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:ron_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:scn_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:sco_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:slk_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:slv_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:spa_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:srd_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:swa_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:swe_x_preferred":[
+        "Kocatepe"
+    ],
     "name:tur_x_preferred":[
         "Kocatepe"
     ],
     "name:unk_x_variant":[
+        "Kocatepe"
+    ],
+    "name:vec_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:vie_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:vls_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:vol_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:wln_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:wol_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:zul_x_preferred":[
         "Kocatepe"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -96,7 +285,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527268837,
+    "wof:lastmodified":1563245975,
     "wof:name":"Kocatepe",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

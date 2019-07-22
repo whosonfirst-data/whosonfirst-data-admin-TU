@@ -25,7 +25,13 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0633\u0647\u0631\u0627\u064a\u062c\u064a\u062a"
+    ],
     "name:cat_x_preferred":[
+        "Sahray\u0131cedid"
+    ],
+    "name:ceb_x_preferred":[
         "Sahray\u0131cedid"
     ],
     "name:ces_x_preferred":[
@@ -136,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561772248,
+    "wof:lastmodified":1563245991,
     "wof:name":"Sahrayicedid",
     "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",

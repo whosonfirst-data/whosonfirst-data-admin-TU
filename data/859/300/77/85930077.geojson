@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Cevizli"
     ],
+    "name:ceb_x_preferred":[
+        "Cevizli"
+    ],
     "name:ces_x_preferred":[
         "Cevizli"
     ],
@@ -169,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561772244,
+    "wof:lastmodified":1563245965,
     "wof:name":"Cevizlik",
     "wof:parent_id":101912673,
     "wof:placetype":"neighbourhood",

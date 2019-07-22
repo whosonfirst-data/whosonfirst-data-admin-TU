@@ -29,11 +29,17 @@
     "name:afr_x_preferred":[
         "Karak\u00f6y"
     ],
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0647 \u0643\u0648\u064a"
+    ],
     "name:cat_x_preferred":[
         "Karak\u00f6y"
     ],
     "name:eng_x_preferred":[
         "Karakoy"
+    ],
+    "name:eng_x_variant":[
+        "Karak\u00f6y"
     ],
     "name:fra_x_preferred":[
         "Karak\u00f6y"
@@ -70,6 +76,9 @@
     ],
     "name:tur_x_preferred":[
         "Karak\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Hacimimi"
     ],
     "name:unk_x_variant":[
         "Kara",
@@ -143,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561772246,
+    "wof:lastmodified":1563245975,
     "wof:name":"Karakoy",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

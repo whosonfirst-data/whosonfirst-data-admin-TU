@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Ulus"
     ],
+    "name:ceb_x_preferred":[
+        "Ulus"
+    ],
     "name:ces_x_preferred":[
         "Ulus"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:fin_x_preferred":[
         "Uluus"
+    ],
+    "name:fin_x_variant":[
+        "Ulus"
     ],
     "name:glg_x_preferred":[
         "Ulus"
@@ -87,6 +93,9 @@
     ],
     "name:pol_x_preferred":[
         "U\u0142us"
+    ],
+    "name:pol_x_variant":[
+        "Ulus"
     ],
     "name:por_x_preferred":[
         "Ulus"
@@ -167,7 +176,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561772247,
+    "wof:lastmodified":1563245982,
     "wof:name":"Ulus",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

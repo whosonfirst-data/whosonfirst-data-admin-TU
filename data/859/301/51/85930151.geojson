@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u062a\u0644\u0627\u0631"
+    ],
     "name:deu_x_preferred":[
         "Etiler"
     ],
@@ -112,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561772244,
+    "wof:lastmodified":1563245966,
     "wof:name":"Etiler",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

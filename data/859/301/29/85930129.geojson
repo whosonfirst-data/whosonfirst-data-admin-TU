@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000457,
-    "geom:area_square_m":4262576.271932,
+    "geom:area_square_m":4262576.271933,
     "geom:bbox":"28.819498291,40.9798977437,28.8418579102,41.0054475069",
     "geom:latitude":40.993194,
     "geom:longitude":28.830244,
@@ -31,8 +31,14 @@
     "name:aze_x_preferred":[
         "Fevzi \u00c7axmaq"
     ],
+    "name:bos_x_preferred":[
+        "Mustafa Fevzi \u00c7akmak"
+    ],
     "name:cat_x_preferred":[
         "Mustafa Fevzi \u00c7akmak"
+    ],
+    "name:dan_x_preferred":[
+        "Fevzi \u00c7akmak"
     ],
     "name:deu_x_preferred":[
         "Fevzi \u00c7akmak"
@@ -49,7 +55,13 @@
     "name:fas_x_preferred":[
         "\u0641\u0648\u0632\u06cc \u067e\u0627\u0634\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0648\u0636\u06cc \u067e\u0627\u0634\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:hun_x_preferred":[
         "Fevzi \u00c7akmak"
     ],
     "name:ita_x_preferred":[
@@ -57,6 +69,48 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a7\u30f4\u30ba\u30a3\u30fb\u30c1\u30e3\u30af\u30de\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d4\u10d5\u10d6\u10d8 \u10e9\u10d0\u10e5\u10db\u10d0\u10e5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ube0c\uc9c0 \ucc28\ud06c\ub9c8\ud06c"
+    ],
+    "name:kur_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:nld_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:nno_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:nob_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:pol_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:por_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:ron_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043a\u043c\u0430\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:spa_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:sqi_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:swe_x_preferred":[
+        "Fevzi \u00c7akmak"
     ],
     "name:tur_x_preferred":[
         "Fevzi \u00c7akmak"
@@ -69,6 +123,15 @@
     ],
     "name:unk_x_variant":[
         "Fevzi \u00c7akmak"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0648\u0632\u06cc \u0686\u06a9\u0645\u0627\u0642"
+    ],
+    "name:yor_x_preferred":[
+        "Fevzi \u00c7akmak"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u592b\u9f4a\u00b7\u6070\u514b\u99ac\u514b"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -129,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268715,
+    "wof:lastmodified":1563245967,
     "wof:name":"Fevzi Cakmak",
     "wof:parent_id":101912671,
     "wof:placetype":"neighbourhood",

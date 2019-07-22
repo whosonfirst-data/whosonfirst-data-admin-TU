@@ -26,10 +26,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631\u0648\u062a\u0634\u064a\u0634\u0645\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0440\u0443\u0447\u0435\u0448\u043c\u0435"
     ],
     "name:cat_x_preferred":[
+        "Kuru\u00e7e\u015fme"
+    ],
+    "name:ceb_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
     "name:ces_x_preferred":[
@@ -95,6 +101,9 @@
     "name:spa_x_preferred":[
         "Arena Turkcell Kuru\u00e7e\u015fme"
     ],
+    "name:spa_x_variant":[
+        "Kuru\u00e7e\u015fme"
+    ],
     "name:swe_x_preferred":[
         "Kuru\u00e7e\u015fme"
     ],
@@ -156,7 +165,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561772245,
+    "wof:lastmodified":1563245970,
     "wof:name":"Kurucesme",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",
