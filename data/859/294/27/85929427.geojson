@@ -26,6 +26,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Hasanpa\u015fa"
+    ],
     "name:eng_x_colloquial":[
         "Hasanpasa"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527638504,
+    "wof:lastmodified":1564169977,
     "wof:name":"Hasanpa\u015fa",
     "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",

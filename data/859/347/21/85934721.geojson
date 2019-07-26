@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8863423.857366,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.932204,40.761327,29.932204,40.761327",
     "geom:latitude":40.761327,
     "geom:longitude":29.932204,
@@ -24,6 +24,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Karabas"
+    ],
+    "name:deu_x_preferred":[
+        "Karabas"
+    ],
+    "name:swe_x_preferred":[
+        "Karabas"
+    ],
     "name:und_x_preferred":[
         "Karabas"
     ],
@@ -59,11 +68,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":56,
     "wof:belongsto":[
+        85679241,
         102191569,
         85632393,
         101912635,
-        1108709225,
-        85679241
+        1108709225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939804,
+    "wof:lastmodified":1564169980,
     "wof:name":"Karabas",
     "wof:parent_id":101912635,
     "wof:placetype":"neighbourhood",

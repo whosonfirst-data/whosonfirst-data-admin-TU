@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2733953.132379,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.730639,36.886211,30.730639,36.886211",
     "geom:latitude":36.886211,
     "geom:longitude":30.730639,
@@ -25,6 +25,18 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:cat_x_preferred":[
+        "Riu Mandyani"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00edo Mandyani"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Mandyani"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Mandyani"
+    ],
     "name:und_x_preferred":[
         "Zerdalilik"
     ],
@@ -61,11 +73,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
         101912923,
-        1108709753,
-        85679263
+        1108709753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939180,
+    "wof:lastmodified":1564169981,
     "wof:name":"Zerdalilik",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",
