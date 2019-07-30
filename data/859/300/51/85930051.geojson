@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5030478.732189,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.665376,36.881682,30.665376,36.881682",
     "geom:latitude":36.881682,
     "geom:longitude":30.665376,
@@ -25,14 +25,29 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ben_x_preferred":[
+        "\u0995\u09b0\u09a4\u09cb\u09af\u09bc\u09be \u09a8\u09a6\u09c0"
+    ],
+    "name:cat_x_preferred":[
+        "Karatoya"
+    ],
+    "name:ceb_x_preferred":[
+        "Karatoya River"
+    ],
     "name:deu_x_preferred":[
         "Meltem"
+    ],
+    "name:ind_x_preferred":[
+        "Sungai Karatoya"
     ],
     "name:und_x_preferred":[
         "Meltem"
     ],
     "name:unk_x_variant":[
         "Meltem"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u7f57\u591a\u4e9a\u6cb3"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
@@ -65,11 +80,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":72,
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
         101912921,
-        1108709655,
-        85679263
+        1108709655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939172,
+    "wof:lastmodified":1564169972,
     "wof:name":"Meltem",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

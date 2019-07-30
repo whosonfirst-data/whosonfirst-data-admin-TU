@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4359990.600596,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.671768,36.917785,30.671768,36.917785",
     "geom:latitude":36.917785,
     "geom:longitude":30.671768,
@@ -25,10 +25,88 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0627\u0629"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b"
+    ],
+    "name:bos_x_preferred":[
+        "Kanal"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Kanal"
+    ],
+    "name:ces_x_preferred":[
+        "Kan\u00e1l"
+    ],
+    "name:dan_x_preferred":[
+        "Kanal"
+    ],
+    "name:deu_x_preferred":[
+        "Kanal"
+    ],
+    "name:est_x_preferred":[
+        "Kanal"
+    ],
+    "name:eus_x_preferred":[
+        "Kanal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0646\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Kanal"
+    ],
+    "name:hrv_x_preferred":[
+        "Kanal"
+    ],
+    "name:ltz_x_preferred":[
+        "Kanal"
+    ],
+    "name:nld_x_preferred":[
+        "Kanal"
+    ],
+    "name:nor_x_preferred":[
+        "Kanal"
+    ],
+    "name:pol_x_preferred":[
+        "Kana\u0142"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b"
+    ],
+    "name:slk_x_preferred":[
+        "Kan\u00e1l"
+    ],
+    "name:slv_x_preferred":[
+        "Kanal"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b"
+    ],
+    "name:stq_x_preferred":[
+        "Kanoal"
+    ],
+    "name:swe_x_preferred":[
+        "Kanal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b"
+    ],
     "name:und_x_preferred":[
         "Kanal"
     ],
     "name:unk_x_variant":[
+        "Kanal"
+    ],
+    "name:uzb_x_preferred":[
         "Kanal"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -61,11 +139,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
         101912921,
-        1108709655,
-        85679263
+        1108709655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939182,
+    "wof:lastmodified":1564169981,
     "wof:name":"Kanal",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

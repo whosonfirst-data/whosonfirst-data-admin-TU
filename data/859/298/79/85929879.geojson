@@ -25,6 +25,9 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "\u00c7ubuklu"
+    ],
     "name:und_x_colloquial":[
         "Cubuklu"
     ],
@@ -91,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269251,
+    "wof:lastmodified":1564169982,
     "wof:name":"\u00c7ubuklu",
     "wof:parent_id":101912645,
     "wof:placetype":"neighbourhood",

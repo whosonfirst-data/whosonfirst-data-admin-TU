@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":670132.567885,
+    "geom:area_square_m":670132.567886,
     "geom:bbox":"28.9923813271,41.0420738395,29.0039062514,41.0503595193",
     "geom:latitude":41.046604,
     "geom:longitude":28.999285,
@@ -29,6 +29,12 @@
     ],
     "name:azb_x_preferred":[
         "\u0645\u0648\u0631\u0627\u062f\u06cc\u06cc\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Muradiye"
+    ],
+    "name:ceb_x_preferred":[
+        "Muradiye"
     ],
     "name:deu_x_preferred":[
         "Muradiye"
@@ -61,6 +67,9 @@
         "Muradiye"
     ],
     "name:nno_x_preferred":[
+        "Muradiye"
+    ],
+    "name:nor_x_preferred":[
         "Muradiye"
     ],
     "name:pnb_x_preferred":[
@@ -147,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527268886,
+    "wof:lastmodified":1564169977,
     "wof:name":"Muradiye",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

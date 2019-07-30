@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0438\u043d\u044c\u044f\u0440"
     ],
+    "name:swe_x_preferred":[
+        "Pinar"
+    ],
     "name:tur_x_preferred":[
         "P\u0131nar"
     ],
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269304,
+    "wof:lastmodified":1564169983,
     "wof:name":"Pinar",
     "wof:parent_id":101912651,
     "wof:placetype":"neighbourhood",
