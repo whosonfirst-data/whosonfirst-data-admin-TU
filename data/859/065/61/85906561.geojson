@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":90,
     "wof:belongsto":[
         85679237,
@@ -132,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245971,
+    "wof:lastmodified":1566247579,
     "wof:name":"Yeni\u015fehir",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

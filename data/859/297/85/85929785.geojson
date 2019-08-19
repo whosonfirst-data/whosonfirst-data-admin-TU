@@ -145,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":573,
     "wof:belongsto":[
@@ -179,7 +179,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245990,
+    "wof:lastmodified":1566247581,
     "wof:name":"Bahcelievler",
     "wof:parent_id":101912673,
     "wof:placetype":"neighbourhood",

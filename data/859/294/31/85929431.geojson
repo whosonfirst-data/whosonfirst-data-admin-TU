@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -142,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245980,
+    "wof:lastmodified":1566247574,
     "wof:name":"Ortabay\u0131r",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

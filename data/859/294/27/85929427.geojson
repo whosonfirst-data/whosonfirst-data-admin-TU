@@ -12,8 +12,8 @@
     "gn:latitude":40.17056,
     "gn:longitude":28.79361,
     "iso:country":"TU",
-    "lbl:latitude":40.997322,
-    "lbl:longitude":29.046215,
+    "lbl:latitude":40.99702,
+    "lbl:longitude":29.04364,
     "mps:latitude":40.996817,
     "mps:longitude":29.050754,
     "mz:hierarchy_label":1,
@@ -21,7 +21,7 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
@@ -31,6 +31,9 @@
     ],
     "name:eng_x_colloquial":[
         "Hasanpasa"
+    ],
+    "name:eng_x_variant":[
+        "Hasanpa\u015fa"
     ],
     "name:tur_x_preferred":[
         "Hasanpa\u015fa"
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":157,
     "wof:belongsto":[
         85679237,
@@ -107,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564169977,
+    "wof:lastmodified":1566247582,
     "wof:name":"Hasanpa\u015fa",
     "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",

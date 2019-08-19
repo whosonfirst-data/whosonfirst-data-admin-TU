@@ -19,10 +19,11 @@
     "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
-    "mz:is_landuse_aoi":0,
+    "mz:is_landuse_aoi":1,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"mosque",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:ara_x_preferred":[
@@ -148,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":732,
     "wof:belongsto":[
         85679237,
@@ -180,7 +181,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245974,
+    "wof:lastmodified":1566247578,
     "wof:name":"G\u00fclfem Hatun",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

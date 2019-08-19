@@ -11,8 +11,8 @@
     "geom:longitude":29.095665,
     "gn:id":"",
     "iso:country":"TU",
-    "lbl:latitude":41.115708,
-    "lbl:longitude":29.093507,
+    "lbl:latitude":41.111656,
+    "lbl:longitude":29.088471,
     "mps:latitude":41.114342,
     "mps:longitude":29.095945,
     "mz:hierarchy_label":1,
@@ -20,7 +20,7 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
@@ -42,6 +42,9 @@
     ],
     "name:eng_x_preferred":[
         "\u00c7i\u011fdem"
+    ],
+    "name:eng_x_variant":[
+        "\u00c7igdem"
     ],
     "name:eus_x_preferred":[
         "\u00c7i\u011fdem"
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":63,
     "wof:belongsto":[
         85679237,
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245964,
+    "wof:lastmodified":1566247581,
     "wof:name":"\u00c7igdem",
     "wof:parent_id":101912645,
     "wof:placetype":"neighbourhood",

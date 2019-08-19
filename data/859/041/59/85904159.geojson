@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":41.02739,
     "wd:longitude":28.98228,
     "wd:wordcount":441,
@@ -122,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563245969,
+    "wof:lastmodified":1566247578,
     "wof:name":"Tophane",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

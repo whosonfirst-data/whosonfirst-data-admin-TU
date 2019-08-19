@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":350639.911201,
+    "geom:area_square_m":350639.9112,
     "geom:bbox":"28.9791870117,41.041038064,28.9879653691,41.0469309616",
     "geom:latitude":41.04367,
     "geom:longitude":28.984041,
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -118,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268836,
+    "wof:lastmodified":1566247571,
     "wof:name":"In\u00f6n\u00fc",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

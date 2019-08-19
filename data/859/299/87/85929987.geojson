@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000618,
-    "geom:area_square_m":5768365.303178,
+    "geom:area_square_m":5768365.303177,
     "geom:bbox":"28.8350356593,40.9606189695,28.8610839844,41.0044109669",
     "geom:latitude":40.983267,
     "geom:longitude":28.848468,
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -101,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269304,
+    "wof:lastmodified":1566247581,
     "wof:name":"Atakoy 9-10.",
     "wof:parent_id":101912671,
     "wof:placetype":"neighbourhood",

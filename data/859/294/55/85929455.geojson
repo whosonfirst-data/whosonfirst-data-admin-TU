@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":419,
     "wof:belongsto":[
         85679237,
@@ -115,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561772247,
+    "wof:lastmodified":1566247574,
     "wof:name":"Mecidiyek\u00f6y",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

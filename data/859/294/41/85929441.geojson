@@ -28,9 +28,6 @@
     "name:bel_x_preferred":[
         "\u0423\u043b\u0443\u0441"
     ],
-    "name:bel_x_variant":[
-        "\u0423\u043b\u0443\u0441"
-    ],
     "name:bul_x_preferred":[
         "\u0423\u043b\u0443\u0441"
     ],
@@ -144,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":79,
     "wof:belongsto":[
         85679237,
@@ -176,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563245982,
+    "wof:lastmodified":1566247573,
     "wof:name":"Ulus",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

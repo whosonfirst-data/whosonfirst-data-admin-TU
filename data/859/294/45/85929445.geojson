@@ -10,8 +10,8 @@
     "geom:latitude":41.051158,
     "geom:longitude":29.055019,
     "iso:country":"TU",
-    "lbl:latitude":41.052746,
-    "lbl:longitude":29.052038,
+    "lbl:latitude":41.054817,
+    "lbl:longitude":29.052725,
     "mps:latitude":41.050148,
     "mps:longitude":29.057137,
     "mz:hierarchy_label":1,
@@ -19,7 +19,7 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
@@ -56,7 +56,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -84,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527268887,
+    "wof:lastmodified":1566247580,
     "wof:name":"Kuleli",
     "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",

@@ -67,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":13,
     "wof:belongsto":[
         85679237,
@@ -99,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268887,
+    "wof:lastmodified":1566247569,
     "wof:name":"Ferikoy",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

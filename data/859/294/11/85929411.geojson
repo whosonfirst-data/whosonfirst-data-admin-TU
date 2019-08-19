@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
-    "geom:area_square_m":1490059.862446,
+    "geom:area_square_m":1490059.862447,
     "geom:bbox":"28.9572143555,41.0379306132,28.9736938477,41.0547254826",
     "geom:latitude":41.045773,
     "geom:longitude":28.96547,
@@ -67,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -97,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268887,
+    "wof:lastmodified":1566247582,
     "wof:name":"Istiklal",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

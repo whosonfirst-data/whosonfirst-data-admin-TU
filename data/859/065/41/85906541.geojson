@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
-    "geom:area_square_m":74532.111291,
+    "geom:area_square_m":74532.11129,
     "geom:bbox":"28.9704085821,41.0310011768,28.9750671387,41.0343161014",
     "geom:latitude":41.032604,
     "geom:longitude":28.97276,
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -100,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268837,
+    "wof:lastmodified":1566247578,
     "wof:name":"Catma Mescit",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

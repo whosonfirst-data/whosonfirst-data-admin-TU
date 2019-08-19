@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":192,
     "wof:belongsto":[
         85679237,
@@ -152,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245976,
+    "wof:lastmodified":1566247579,
     "wof:name":"Sahkulu",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
