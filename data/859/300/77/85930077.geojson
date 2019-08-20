@@ -143,7 +143,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -172,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245965,
+    "wof:lastmodified":1566247581,
     "wof:name":"Cevizlik",
     "wof:parent_id":101912673,
     "wof:placetype":"neighbourhood",

@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":471,
     "wof:belongsto":[
         85679237,
@@ -119,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245969,
+    "wof:lastmodified":1566247570,
     "wof:name":"Yildiz",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

@@ -95,7 +95,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -123,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268676,
+    "wof:lastmodified":1566247573,
     "wof:name":"Besiktas",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

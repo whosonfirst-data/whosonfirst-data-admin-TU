@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -142,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245972,
+    "wof:lastmodified":1566247579,
     "wof:name":"Katip Mustafa \u00c7elebi",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

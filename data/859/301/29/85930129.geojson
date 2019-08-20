@@ -160,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":3713,
     "wof:belongsto":[
         85679237,
@@ -192,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245967,
+    "wof:lastmodified":1566247581,
     "wof:name":"Fevzi Cakmak",
     "wof:parent_id":101912671,
     "wof:placetype":"neighbourhood",

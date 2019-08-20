@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":50,
     "wof:belongsto":[
         85679237,
@@ -104,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564169983,
+    "wof:lastmodified":1566247573,
     "wof:name":"Pinar",
     "wof:parent_id":101912651,
     "wof:placetype":"neighbourhood",

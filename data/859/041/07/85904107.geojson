@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":21,
     "wof:belongsto":[
         85679237,
@@ -111,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563245969,
+    "wof:lastmodified":1566247570,
     "wof:name":"Harbiye",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

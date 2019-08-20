@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0005,
-    "geom:area_square_m":4664791.751954,
+    "geom:area_square_m":4664791.751953,
     "geom:bbox":"29.0258789062,41.0282151522,29.0560913086,41.0503595121",
     "geom:latitude":41.03935,
     "geom:longitude":29.042955,
@@ -19,10 +19,11 @@
     "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
-    "mz:is_landuse_aoi":0,
+    "mz:is_landuse_aoi":1,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"street under bridge",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:ara_x_preferred":[
@@ -68,7 +69,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569
     ],
@@ -92,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268887,
+    "wof:lastmodified":1566247579,
     "wof:name":"Abdullah A\u011fa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

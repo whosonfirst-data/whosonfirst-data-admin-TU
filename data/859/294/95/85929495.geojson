@@ -125,7 +125,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":38.994722,
     "wd:longitude":43.768056,
     "wd:wordcount":71,
@@ -156,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564169977,
+    "wof:lastmodified":1566247574,
     "wof:name":"Muradiye",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

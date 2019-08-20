@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1826799.3102,
+    "geom:area_square_m":1826799.310199,
     "geom:bbox":"29.0451049805,41.0545018981,29.0660295029,41.068998455",
     "geom:latitude":41.061051,
     "geom:longitude":29.055456,
     "iso:country":"TU",
-    "lbl:latitude":41.060785,
-    "lbl:longitude":29.052404,
+    "lbl:latitude":41.062243,
+    "lbl:longitude":29.05421,
     "mps:latitude":41.061313,
     "mps:longitude":29.056303,
     "mz:hierarchy_label":1,
@@ -31,7 +31,11 @@
     "name:eng_x_variant":[
         "Vani Kioi",
         "Vankoy",
-        "Wanik\u00f6y"
+        "Wanik\u00f6y",
+        "Vanik\u00f6y"
+    ],
+    "name:tur_x_preferred":[
+        "Vanik\u00f6y"
     ],
     "name:und_x_preferred":[
         "Vanik\u00f6y"
@@ -65,7 +69,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -91,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268888,
+    "wof:lastmodified":1566247579,
     "wof:name":"Vanik\u00f6y",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
