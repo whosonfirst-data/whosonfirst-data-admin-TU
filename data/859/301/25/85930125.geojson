@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":40.969254,
     "lbl:longitude":29.108395,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.973676,
     "mps:longitude":29.105167,
     "mz:hierarchy_label":1,
@@ -39,12 +40,6 @@
     ],
     "name:und_x_colloquial":[
         "Icerenkoy"
-    ],
-    "name:und_x_preferred":[
-        "I\u00e7erenk\u00f6y"
-    ],
-    "name:unk_x_variant":[
-        "I\u00e7erenk\u00f6y"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -87,7 +82,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871271,
-        "qs:id":473512,
         "qs_pg:id":473512,
         "wd:id":"Q12813027"
     },
@@ -107,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247581,
+    "wof:lastmodified":1566588208,
     "wof:name":"I\u00e7erenk\u00f6y",
     "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",

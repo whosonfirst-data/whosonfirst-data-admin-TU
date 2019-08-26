@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":582772.536579,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.704804,36.886753,30.704804,36.886753",
     "geom:latitude":36.886753,
     "geom:longitude":30.704804,
     "iso:country":"TU",
+    "lbl:bbox":"30.699804,36.881753,30.709804,36.891753",
     "lbl:latitude":36.886753,
     "lbl:longitude":30.704804,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.888298,
     "mps:longitude":30.70679,
     "mz:hierarchy_label":0,
@@ -27,12 +29,6 @@
         "Tuzcular"
     ],
     "name:tur_x_preferred":[
-        "Tuzcular"
-    ],
-    "name:und_x_preferred":[
-        "Tuzcular"
-    ],
-    "name:unk_x_variant":[
         "Tuzcular"
     ],
     "name:vie_x_preferred":[
@@ -64,13 +60,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
         101912923,
-        1108709753,
-        85679263
+        1108709753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939170,
+    "wof:lastmodified":1566588206,
     "wof:name":"Tuzcular",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00065,
-    "geom:area_square_m":6062490.146738,
+    "geom:area_square_m":6062490.14674,
     "geom:bbox":"28.1987187687,41.0667744683,28.2662694634,41.0918838834",
     "geom:latitude":41.078483,
     "geom:longitude":28.237315,
     "iso:country":"TU",
     "lbl:latitude":41.081891,
     "lbl:longitude":28.240819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.081891,
     "mps:longitude":28.240819,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Turkey",
     "qs:a1":"*",
     "qs:a1r":"5",
@@ -30,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -40,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871255,
-        "qs:id":1337741,
         "qs_pg:id":1337741
     },
     "wof:country":"TU",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101912633,
-    "wof:lastmodified":1497298183,
+    "wof:lastmodified":1566588222,
     "wof:name":"Yenimahalle",
     "wof:parent_id":890462765,
     "wof:placetype":"locality",

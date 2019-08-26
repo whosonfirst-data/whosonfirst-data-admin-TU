@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.036011,
     "lbl:longitude":28.988028,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.036848,
     "mps:longitude":28.988491,
     "mz:hierarchy_label":1,
@@ -61,14 +62,8 @@
     "name:tur_x_preferred":[
         "G\u00fcm\u00fc\u015fsuyu"
     ],
-    "name:und_x_preferred":[
-        "Gumussuyu/beyoglu"
-    ],
     "name:und_x_variant":[
         "G\u00fcm\u00fcssuyu/beyoglu"
-    ],
-    "name:unk_x_variant":[
-        "Gumussuyu/beyoglu"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -108,7 +103,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724095,
-        "qs:id":1118661,
         "qs_pg:id":1118661
     },
     "wof:country":"TU",
@@ -127,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566588211,
     "wof:name":"Gumussuyu",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

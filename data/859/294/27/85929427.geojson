@@ -14,6 +14,7 @@
     "iso:country":"TU",
     "lbl:latitude":40.99702,
     "lbl:longitude":29.04364,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.996817,
     "mps:longitude":29.050754,
     "mz:hierarchy_label":1,
@@ -40,12 +41,6 @@
     ],
     "name:tur_x_variant":[
         "Hasana\u011fa"
-    ],
-    "name:und_x_preferred":[
-        "Hasanpa\u015fa"
-    ],
-    "name:unk_x_variant":[
-        "Hasanpa\u015fa"
     ],
     "name:vie_x_preferred":[
         "Hasanpa\u015fa"
@@ -91,7 +86,6 @@
     "wof:concordances":{
         "gn:id":745819,
         "gp:id":55865024,
-        "qs:id":204699,
         "qs_pg:id":204699
     },
     "wof:country":"TU",
@@ -110,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566588213,
     "wof:name":"Hasanpa\u015fa",
     "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",

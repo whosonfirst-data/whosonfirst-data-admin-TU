@@ -12,6 +12,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.062243,
     "lbl:longitude":29.05421,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.061313,
     "mps:longitude":29.056303,
     "mz:hierarchy_label":1,
@@ -35,12 +36,6 @@
         "Vanik\u00f6y"
     ],
     "name:tur_x_preferred":[
-        "Vanik\u00f6y"
-    ],
-    "name:und_x_preferred":[
-        "Vanik\u00f6y"
-    ],
-    "name:unk_x_variant":[
         "Vanik\u00f6y"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -95,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566588215,
     "wof:name":"Vanik\u00f6y",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

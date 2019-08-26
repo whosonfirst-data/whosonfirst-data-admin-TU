@@ -12,8 +12,10 @@
     "gn:latitude":36.89074,
     "gn:longitude":30.68554,
     "iso:country":"TU",
+    "lbl:bbox":"30.673257,36.881605,30.683257,36.891605",
     "lbl:latitude":36.886605,
     "lbl:longitude":30.678257,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.893105,
     "mps:longitude":30.677368,
     "mz:hierarchy_label":0,
@@ -31,10 +33,7 @@
     "name:tur_x_preferred":[
         "Varl\u0131k"
     ],
-    "name:und_x_preferred":[
-        "Varlik"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varlik"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":75,
     "wof:belongsto":[
         85679263,
@@ -78,7 +77,6 @@
     "wof:concordances":{
         "gn:id":8073912,
         "gp:id":55871142,
-        "qs:id":1209098,
         "qs_pg:id":1209098,
         "wd:id":"Q7915987"
     },
@@ -98,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245966,
+    "wof:lastmodified":1566588207,
     "wof:name":"Varlik",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

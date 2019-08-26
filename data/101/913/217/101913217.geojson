@@ -12,10 +12,13 @@
     "iso:country":"TU",
     "lbl:latitude":41.041263,
     "lbl:longitude":29.009491,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.041263,
     "mps:longitude":29.009491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ac\u0131badem"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"rural hamlet many local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101913217,
-    "wof:lastmodified":1561772248,
+    "wof:lastmodified":1566588222,
     "wof:name":"Acibadem",
     "wof:parent_id":890462841,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20980582.847327,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.705002,39.897446,32.705002,39.897446",
     "geom:latitude":39.897446,
     "geom:longitude":32.705002,
     "gn:id":"",
     "iso:country":"TU",
+    "lbl:bbox":"32.700002,39.892446,32.710002,39.902446",
     "lbl:latitude":39.897446,
     "lbl:longitude":32.705002,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.894986,
     "mps:longitude":32.705996,
     "mz:hierarchy_label":0,
@@ -27,10 +29,7 @@
     "name:und_x_colloquial":[
         "Cay Yolu"
     ],
-    "name:und_x_preferred":[
-        "\u00c7ay Yolu"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7ay Yolu"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -61,18 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
         101912785,
-        890462771,
-        85679409
+        890462771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871340,
-        "qs:id":1337772,
         "qs_pg:id":1337772
     },
     "wof:country":"TU",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939177,
+    "wof:lastmodified":1566588208,
     "wof:name":"\u00c7ay Yolu",
     "wof:parent_id":101912785,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.039996,
     "lbl:longitude":28.982168,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.039371,
     "mps:longitude":28.983787,
     "mz:hierarchy_label":1,
@@ -202,9 +203,6 @@
     "name:tur_x_preferred":[
         "Kocatepe"
     ],
-    "name:unk_x_variant":[
-        "Kocatepe"
-    ],
     "name:vec_x_preferred":[
         "Kocatepe"
     ],
@@ -265,7 +263,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724088,
-        "qs:id":366666,
         "qs_pg:id":366666,
         "wd:id":"Q1547370"
     },
@@ -285,7 +282,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566588211,
     "wof:name":"Kocatepe",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.027173,
     "lbl:longitude":28.979655,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.02716,
     "mps:longitude":28.97993,
     "mz:hierarchy_label":1,
@@ -32,12 +33,6 @@
         "Hac\u0131mimi"
     ],
     "name:tur_x_preferred":[
-        "Hac\u0131mimi"
-    ],
-    "name:und_x_preferred":[
-        "Hac\u0131mimi"
-    ],
-    "name:unk_x_variant":[
         "Hac\u0131mimi"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -78,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724109,
-        "qs:id":237751,
         "qs_pg:id":237751
     },
     "wof:country":"TU",
@@ -97,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566588212,
     "wof:name":"Hacimimi",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

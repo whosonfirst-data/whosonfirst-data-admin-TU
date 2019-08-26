@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.034948,
     "lbl:longitude":28.98153,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.034455,
     "mps:longitude":28.981938,
     "mz:hierarchy_label":1,
@@ -100,9 +101,6 @@
     "name:tur_x_preferred":[
         "Katip Mustafa \u00c7elebi"
     ],
-    "name:und_x_preferred":[
-        "Katip Mustafa \u00c7elebi"
-    ],
     "name:war_x_preferred":[
         "Katip Mustafa \u00c7elebi"
     ],
@@ -122,7 +120,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724101,
-        "qs:id":896999,
         "qs_pg:id":896999,
         "wd:id":"Q6069640"
     },
@@ -142,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566588210,
     "wof:name":"Katip Mustafa \u00c7elebi",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

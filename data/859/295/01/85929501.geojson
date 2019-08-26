@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.04896,
     "lbl:longitude":29.053239,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.050214,
     "mps:longitude":29.068071,
     "mz:hierarchy_label":1,
@@ -29,10 +30,7 @@
     "name:eng_x_colloquial":[
         "Havuzbasi"
     ],
-    "name:und_x_preferred":[
-        "Havuzba\u015f\u0131"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Havuzba\u015f\u0131"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865076,
-        "qs:id":1136140,
         "qs_pg:id":1136140
     },
     "wof:country":"TU",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247580,
+    "wof:lastmodified":1566588213,
     "wof:name":"Havuzba\u015f\u0131",
     "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",
