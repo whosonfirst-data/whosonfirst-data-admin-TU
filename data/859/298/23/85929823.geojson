@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9545820.198718,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.636125,36.946101,30.636125,36.946101",
     "geom:latitude":36.946101,
     "geom:longitude":30.636125,
     "gn:latitude":36.91361,
     "gn:longitude":31.61611,
     "iso:country":"TU",
+    "lbl:bbox":"30.631125,36.941101,30.641125,36.951101",
     "lbl:latitude":36.946101,
     "lbl:longitude":30.636125,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.943808,
     "mps:longitude":30.643578,
     "mz:hierarchy_label":0,
@@ -35,12 +37,6 @@
         "Kepez"
     ],
     "name:tur_x_preferred":[
-        "Kepez"
-    ],
-    "name:und_x_preferred":[
-        "Kepez"
-    ],
-    "name:unk_x_variant":[
         "Kepez"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -70,19 +66,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":40,
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
-        1108709655,
-        85679263
+        1108709655
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8069984,
         "gp:id":55870768,
-        "qs:id":1185486
+        "qs_pg:id":1185486
     },
     "wof:country":"TU",
     "wof:geomhash":"7120c840358278a7b504cb70078793b9",
@@ -100,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939163,
+    "wof:lastmodified":1566588219,
     "wof:name":"Kepez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

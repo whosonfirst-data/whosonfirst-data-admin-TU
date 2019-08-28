@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.078229,
     "lbl:longitude":29.003391,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.080824,
     "mps:longitude":28.998586,
     "mz:hierarchy_label":1,
@@ -100,7 +101,7 @@
     "name:tur_x_preferred":[
         "G\u00fcltepe"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Ortabay\u0131r"
     ],
     "name:war_x_preferred":[
@@ -122,7 +123,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865025,
-        "qs:id":383240,
         "qs_pg:id":383240,
         "wd:id":"Q6071040"
     },
@@ -142,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247574,
+    "wof:lastmodified":1566588214,
     "wof:name":"Ortabay\u0131r",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

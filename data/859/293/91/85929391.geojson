@@ -12,6 +12,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.071384,
     "lbl:longitude":29.022065,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.073657,
     "mps:longitude":29.02069,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
         "Nispetiye"
     ],
     "name:tur_x_preferred":[
-        "Nispetiye"
-    ],
-    "name:unk_x_variant":[
         "Nispetiye"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247573,
+    "wof:lastmodified":1566588215,
     "wof:name":"Nisbetiye",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

@@ -14,6 +14,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.02898,
     "lbl:longitude":29.032513,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.024185,
     "mps:longitude":29.031225,
     "mz:hierarchy_label":1,
@@ -33,12 +34,6 @@
         "\u0130cadiye"
     ],
     "name:tur_x_preferred":[
-        "\u0130cadiye"
-    ],
-    "name:und_x_preferred":[
-        "\u0130cadiye"
-    ],
-    "name:unk_x_variant":[
         "\u0130cadiye"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -82,7 +77,6 @@
     "wof:concordances":{
         "gn:id":745433,
         "gp:id":55865005,
-        "qs:id":375350,
         "qs_pg:id":375350,
         "wd:id":"Q8080040"
     },
@@ -102,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566588216,
     "wof:name":"\u0130cadiye",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

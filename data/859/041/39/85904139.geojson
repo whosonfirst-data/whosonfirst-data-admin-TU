@@ -14,6 +14,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.061583,
     "lbl:longitude":29.036236,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.060188,
     "mps:longitude":29.037789,
     "mz:hierarchy_label":1,
@@ -116,15 +117,9 @@
     "name:tur_x_variant":[
         "Kuru\u00e7e\u015fme"
     ],
-    "name:und_x_preferred":[
-        "Kuru\u00e7e\u015fme"
-    ],
     "name:und_x_variant":[
-        "Kuru\u00e7esme"
-    ],
-    "name:unk_x_variant":[
-        "Kuruchesme",
-        "Kuru\u00e7e\u015fme"
+        "Kuru\u00e7esme",
+        "Kuruchesme"
     ],
     "name:war_x_preferred":[
         "Kuru\u00e7e\u015fme"
@@ -145,7 +140,6 @@
     "wof:concordances":{
         "gn:id":742083,
         "gp:id":2343617,
-        "qs:id":483065,
         "qs_pg:id":483065,
         "wd:id":"Q6601541"
     },
@@ -165,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247570,
+    "wof:lastmodified":1566588209,
     "wof:name":"Kurucesme",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

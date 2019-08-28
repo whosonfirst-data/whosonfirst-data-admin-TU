@@ -12,6 +12,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.0349,
     "lbl:longitude":28.984985,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.036565,
     "mps:longitude":28.984984,
     "mz:hierarchy_label":1,
@@ -52,10 +53,6 @@
         "Tophane"
     ],
     "name:tur_x_preferred":[
-        "Tophane"
-    ],
-    "name:unk_x_variant":[
-        "Topkhana",
         "Tophane"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -101,7 +98,6 @@
     "wof:concordances":{
         "gn:id":738702,
         "gp:id":2343649,
-        "qs:id":884348,
         "qs_pg:id":884348,
         "wd:id":"Q2443264",
         "wk:page":"Tophane"
@@ -122,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247578,
+    "wof:lastmodified":1566588208,
     "wof:name":"Tophane",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

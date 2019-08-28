@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1806570.023083,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.511046,39.777877,30.511046,39.777877",
     "geom:latitude":39.777877,
     "geom:longitude":30.511046,
     "gn:id":"",
     "iso:country":"TU",
+    "lbl:bbox":"30.506046,39.772877,30.516046,39.782877",
     "lbl:latitude":39.777877,
     "lbl:longitude":30.511046,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.778807,
     "mps:longitude":30.509639,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Hosnudiye"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hosnudiye"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -56,18 +55,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679255,
         102191569,
         85632393,
         101912871,
-        1108709773,
-        85679255
+        1108709773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56043396,
-        "qs:id":483012,
         "qs_pg:id":483012
     },
     "wof:country":"TU",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939812,
+    "wof:lastmodified":1566588218,
     "wof:name":"Hosnudiye",
     "wof:parent_id":101912871,
     "wof:placetype":"neighbourhood",

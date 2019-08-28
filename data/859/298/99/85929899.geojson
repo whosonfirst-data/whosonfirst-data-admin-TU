@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":40.988407,
     "lbl:longitude":28.86566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.990265,
     "mps:longitude":28.86655,
     "mz:hierarchy_label":1,
@@ -25,10 +26,7 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:und_x_preferred":[
-        "Zuhuratbaba"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zuhuratbaba"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -69,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870918,
-        "qs:id":1337676,
         "qs_pg:id":1337676
     },
     "wof:country":"TU",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247581,
+    "wof:lastmodified":1566588219,
     "wof:name":"Zuhuratbaba",
     "wof:parent_id":101912673,
     "wof:placetype":"neighbourhood",

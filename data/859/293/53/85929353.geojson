@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.007156,
     "lbl:longitude":29.034495,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.002702,
     "mps:longitude":29.03681,
     "mz:hierarchy_label":1,
@@ -103,9 +104,6 @@
     "name:tur_x_preferred":[
         "Ko\u015fuyolu"
     ],
-    "name:und_x_preferred":[
-        "Ko\u015fuyolu"
-    ],
     "name:war_x_preferred":[
         "Ko\u015fuyolu"
     ],
@@ -125,7 +123,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55864990,
-        "qs:id":383230,
         "qs_pg:id":383230,
         "wd:id":"Q6059322"
     },
@@ -145,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247581,
+    "wof:lastmodified":1566588216,
     "wof:name":"Ko\u015fuyolu",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

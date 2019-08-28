@@ -12,6 +12,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.065927,
     "lbl:longitude":29.027039,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.075397,
     "mps:longitude":29.029954,
     "mz:hierarchy_label":1,
@@ -60,13 +61,7 @@
     "name:und_x_colloquial":[
         "Beshik Tash"
     ],
-    "name:und_x_preferred":[
-        "Besiktas"
-    ],
     "name:und_x_variant":[
-        "Be\u015fikta\u015f"
-    ],
-    "name:unk_x_variant":[
         "Besiktas"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -123,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247573,
+    "wof:lastmodified":1566588206,
     "wof:name":"Besiktas",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

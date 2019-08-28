@@ -12,8 +12,10 @@
     "gn:latitude":36.88656,
     "gn:longitude":30.66913,
     "iso:country":"TU",
+    "lbl:bbox":"30.660376,36.876682,30.670376,36.886682",
     "lbl:latitude":36.881682,
     "lbl:longitude":30.665376,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.877016,
     "mps:longitude":30.667976,
     "mz:hierarchy_label":0,
@@ -39,12 +41,6 @@
     ],
     "name:ind_x_preferred":[
         "Sungai Karatoya"
-    ],
-    "name:und_x_preferred":[
-        "Meltem"
-    ],
-    "name:unk_x_variant":[
-        "Meltem"
     ],
     "name:zho_x_preferred":[
         "\u6208\u7f57\u591a\u4e9a\u6cb3"
@@ -77,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":72,
     "wof:belongsto":[
         85679263,
@@ -90,7 +86,6 @@
     "wof:concordances":{
         "gn:id":8073905,
         "gp:id":55871109,
-        "qs:id":1079256,
         "qs_pg:id":1079256,
         "wk:page":"Karatoya River"
     },
@@ -110,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564169972,
+    "wof:lastmodified":1566588205,
     "wof:name":"Meltem",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

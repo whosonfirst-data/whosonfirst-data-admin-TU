@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":40.982334,
     "lbl:longitude":29.083271,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.985176,
     "mps:longitude":29.091418,
     "mz:hierarchy_label":1,
@@ -100,7 +101,7 @@
     "name:tur_x_preferred":[
         "Sahray\u0131cedid"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Sahrayicedid"
     ],
     "name:war_x_preferred":[
@@ -122,7 +123,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870985,
-        "qs:id":923441,
         "qs_pg:id":923441,
         "wd:id":"Q6074272"
     },
@@ -142,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247580,
+    "wof:lastmodified":1566588221,
     "wof:name":"Sahrayicedid",
     "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",

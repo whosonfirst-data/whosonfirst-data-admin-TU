@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.035616,
     "lbl:longitude":28.974788,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.035876,
     "mps:longitude":28.973181,
     "mz:hierarchy_label":1,
@@ -119,7 +120,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724080,
-        "qs:id":237746,
         "qs_pg:id":237746,
         "wd:id":"Q6073635"
     },
@@ -139,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566588212,
     "wof:name":"Kamer Hatun",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

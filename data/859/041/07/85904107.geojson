@@ -14,6 +14,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.045925,
     "lbl:longitude":28.989851,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.042408,
     "mps:longitude":28.99218,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
         "\u0425\u0430\u0440\u0431\u0438\u0439\u0435"
     ],
     "name:tur_x_preferred":[
-        "Harbiye"
-    ],
-    "name:unk_x_variant":[
         "Harbiye"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -91,7 +89,6 @@
     "wof:concordances":{
         "gn:id":745856,
         "gp:id":2343582,
-        "qs:id":1075574,
         "qs_pg:id":1075574,
         "wd:id":"Q1592273"
     },
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247570,
+    "wof:lastmodified":1566588209,
     "wof:name":"Harbiye",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

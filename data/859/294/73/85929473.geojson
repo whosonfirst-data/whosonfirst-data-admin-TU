@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.055547,
     "lbl:longitude":29.003839,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.057019,
     "mps:longitude":29.002692,
     "mz:hierarchy_label":1,
@@ -35,12 +36,6 @@
         "Dikilita\u015f"
     ],
     "name:tur_x_preferred":[
-        "Dikilita\u015f"
-    ],
-    "name:und_x_preferred":[
-        "Dikilita\u015f"
-    ],
-    "name:unk_x_variant":[
         "Dikilita\u015f"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -82,7 +77,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865049,
-        "qs:id":1294314,
         "qs_pg:id":1294314
     },
     "wof:country":"TU",
@@ -101,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247574,
+    "wof:lastmodified":1566588214,
     "wof:name":"Dikilitas",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

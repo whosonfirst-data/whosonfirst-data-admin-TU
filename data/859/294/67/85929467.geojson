@@ -13,6 +13,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.011927,
     "lbl:longitude":29.024011,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.010876,
     "mps:longitude":29.022636,
     "mz:hierarchy_label":1,
@@ -29,10 +30,7 @@
     "name:eng_x_colloquial":[
         "Arakiyeci Haci Mehmet"
     ],
-    "name:und_x_preferred":[
-        "Arakiyeci Hac\u0131 Mehmet"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arakiyeci Hac\u0131 Mehmet"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865047,
-        "qs:id":230829,
         "qs_pg:id":230829
     },
     "wof:country":"TU",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566588213,
     "wof:name":"Arakiyeci Hac\u0131 Mehmet",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

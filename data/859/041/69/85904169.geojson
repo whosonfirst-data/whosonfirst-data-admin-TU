@@ -12,6 +12,7 @@
     "iso:country":"TU",
     "lbl:latitude":41.045452,
     "lbl:longitude":29.011309,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.048251,
     "mps:longitude":29.016269,
     "mz:hierarchy_label":1,
@@ -49,12 +50,6 @@
         "Y\u0131ld\u0131z"
     ],
     "name:tur_x_preferred":[
-        "Y\u0131ld\u0131z"
-    ],
-    "name:und_x_preferred":[
-        "Y\u0131ld\u0131z"
-    ],
-    "name:unk_x_variant":[
         "Y\u0131ld\u0131z"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -98,7 +93,6 @@
     "wof:concordances":{
         "gn:id":737486,
         "gp:id":2343666,
-        "qs:id":407108,
         "qs_pg:id":407108,
         "wd:id":"Q3100907",
         "wk:page":"Y\u0131ld\u0131z"
@@ -119,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247570,
+    "wof:lastmodified":1566588208,
     "wof:name":"Yildiz",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

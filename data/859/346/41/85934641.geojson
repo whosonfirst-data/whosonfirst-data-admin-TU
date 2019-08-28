@@ -10,8 +10,10 @@
     "geom:latitude":40.978673,
     "geom:longitude":27.525621,
     "iso:country":"TU",
+    "lbl:bbox":"27.520621,40.973673,27.530621,40.983673",
     "lbl:latitude":40.978673,
     "lbl:longitude":27.525621,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.980754,
     "mps:longitude":27.53032,
     "mz:hierarchy_label":0,
@@ -620,12 +622,6 @@
     "name:twi_x_preferred":[
         "Turgut"
     ],
-    "name:und_x_preferred":[
-        "Turgut"
-    ],
-    "name:unk_x_variant":[
-        "Turgut"
-    ],
     "name:vec_x_preferred":[
         "Turgut"
     ],
@@ -693,7 +689,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":169,
     "wof:belongsto":[
         85679223,
@@ -723,7 +719,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563245985,
+    "wof:lastmodified":1566588216,
     "wof:name":"Turgut",
     "wof:parent_id":101910981,
     "wof:placetype":"neighbourhood",

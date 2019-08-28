@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":27377201.295676,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.756545,39.877505,32.756545,39.877505",
     "geom:latitude":39.877505,
     "geom:longitude":32.756545,
     "gn:id":"",
     "iso:country":"TU",
+    "lbl:bbox":"32.751545,39.872505,32.761545,39.882505",
     "lbl:latitude":39.877505,
     "lbl:longitude":32.756545,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.88121,
     "mps:longitude":32.755393,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Ortadogu"
-    ],
-    "name:unk_x_variant":[
         "Ortadogu"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
-        890462517,
-        85679409
+        890462517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865597,
-        "qs:id":508300
+        "qs_pg:id":508300
     },
     "wof:country":"TU",
     "wof:geomhash":"a78fbf8b23a97056e6589b881b5daf66",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939152,
+    "wof:lastmodified":1566588220,
     "wof:name":"Ortadogu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
