@@ -73,6 +73,10 @@
         "qs_pg:id":893170
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c49a5b12291bd02b7d6bac43ff0f9fcd",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588208,
+    "wof:lastmodified":1582343859,
     "wof:name":"Sirinyali",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

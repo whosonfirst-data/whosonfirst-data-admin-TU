@@ -105,6 +105,10 @@
         "wk:page":"Asangaon"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74dd0ecc3d08039a77b690487eee0091",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588221,
+    "wof:lastmodified":1582343862,
     "wof:name":"G\u00fcrsu",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

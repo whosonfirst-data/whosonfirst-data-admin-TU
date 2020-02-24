@@ -127,6 +127,9 @@
         "wd:id":"Q6093871"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6ee8eeb2b4ba849f4ab4726e0e56093",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588215,
+    "wof:lastmodified":1582343861,
     "wof:name":"Balmumcu",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

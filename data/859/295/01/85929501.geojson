@@ -74,6 +74,9 @@
         "qs_pg:id":1136140
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3e4ecf2d245e9ff2db4ba067d6f6f13b",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588213,
+    "wof:lastmodified":1582343860,
     "wof:name":"Havuzba\u015f\u0131",
     "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",

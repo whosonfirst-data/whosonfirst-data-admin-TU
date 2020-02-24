@@ -81,6 +81,10 @@
         "wd:id":"Q7915987"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4288ab51f735b9ed0b82dbd555e8b589",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588207,
+    "wof:lastmodified":1582343859,
     "wof:name":"Varlik",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

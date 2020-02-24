@@ -155,6 +155,9 @@
         "wd:id":"Q6101487"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20047b60fca9eabbe6b2efeb4880126e",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588219,
+    "wof:lastmodified":1582343862,
     "wof:name":"Altunizade",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

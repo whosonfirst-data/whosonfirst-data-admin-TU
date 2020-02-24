@@ -94,6 +94,9 @@
         "wk:page":"Mecidiyek\u00f6y"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"32a26da6756bd155339417cab8d8b27b",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588215,
+    "wof:lastmodified":1582343861,
     "wof:name":"Mecidiyek\u00f6y",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

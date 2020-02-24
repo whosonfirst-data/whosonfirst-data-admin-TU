@@ -156,6 +156,9 @@
         "wd:id":"Q327147"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f7d457f9c79ef867b9c2e7c77267155",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588206,
+    "wof:lastmodified":1582343859,
     "wof:name":"H\u00fcrriyet",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

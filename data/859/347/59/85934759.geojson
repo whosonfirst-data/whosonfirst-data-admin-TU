@@ -93,6 +93,9 @@
         "wd:id":"Q16281782"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b262a93413526a943ab8efbb3c6e155",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588217,
+    "wof:lastmodified":1582343861,
     "wof:name":"S\u00fcmer",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -121,6 +121,9 @@
         "wd:id":"Q6072587"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2fb0e7dcac6b4fb168be1287b254fd2",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588206,
+    "wof:lastmodified":1582343859,
     "wof:name":"Barbaros",
     "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",

@@ -130,6 +130,9 @@
         "wd:id":"Q6078350"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46a269f8ba90e6d95e174c93eebeda7d",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588218,
+    "wof:lastmodified":1582343861,
     "wof:name":"Kavacik",
     "wof:parent_id":101912645,
     "wof:placetype":"neighbourhood",

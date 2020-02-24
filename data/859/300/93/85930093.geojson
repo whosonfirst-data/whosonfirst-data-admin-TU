@@ -70,6 +70,9 @@
         "qs_pg:id":1337729
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"674ecd6ec98860f56f154ebf4e2ee9cf",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588206,
+    "wof:lastmodified":1582343859,
     "wof:name":"Bulgurlu",
     "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",

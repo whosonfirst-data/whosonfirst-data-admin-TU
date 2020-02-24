@@ -128,6 +128,9 @@
         "wd:id":"Q6072958"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7fe2d82f3d1fb54bec035e3cc497d291",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588219,
+    "wof:lastmodified":1582343861,
     "wof:name":"Kilicali Pasa",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

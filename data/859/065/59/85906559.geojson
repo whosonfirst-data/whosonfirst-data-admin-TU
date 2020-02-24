@@ -100,6 +100,9 @@
         "qs_pg:id":896995
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"59766b261a2703eb8cb4576531b66370",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588209,
+    "wof:lastmodified":1582343860,
     "wof:name":"In\u00f6n\u00fc",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

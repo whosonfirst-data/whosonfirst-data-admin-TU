@@ -124,6 +124,9 @@
         "wd:id":"Q6075419"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5236c397a6ac1800902101b8c5fdd8e0",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588214,
+    "wof:lastmodified":1582343861,
     "wof:name":"Feneryolu",
     "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",

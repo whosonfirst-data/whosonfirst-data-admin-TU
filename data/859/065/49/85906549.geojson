@@ -279,6 +279,9 @@
         "wd:id":"Q43134"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39ed359a265e3ca4b9885a1dec23b846",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588212,
+    "wof:lastmodified":1582343860,
     "wof:name":"Galatasaray",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

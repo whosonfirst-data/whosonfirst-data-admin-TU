@@ -86,6 +86,10 @@
         "wk:page":"Stigler Regional Airport"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dfacdb0d2df30d90ac911727097182d1",
     "wof:hierarchy":[
         {
@@ -101,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588219,
+    "wof:lastmodified":1582343861,
     "wof:name":"Pinarbasi",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

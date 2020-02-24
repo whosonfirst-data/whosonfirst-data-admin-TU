@@ -130,6 +130,9 @@
         "wk:page":"Rumelihisar\u0131"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5881785ebc83dd634b308b65bb7a1629",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588220,
+    "wof:lastmodified":1582343862,
     "wof:name":"Rumeli Hisari",
     "wof:parent_id":101912659,
     "wof:placetype":"neighbourhood",

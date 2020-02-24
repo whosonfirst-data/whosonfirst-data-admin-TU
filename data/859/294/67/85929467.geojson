@@ -74,6 +74,9 @@
         "qs_pg:id":230829
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0bc906f2eec8918094068c1ca87159a9",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588213,
+    "wof:lastmodified":1582343860,
     "wof:name":"Arakiyeci Hac\u0131 Mehmet",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

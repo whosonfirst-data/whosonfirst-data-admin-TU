@@ -103,6 +103,9 @@
         "qs_pg:id":237744
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80bb1542f55b79ec65112be98ba8b9a8",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588210,
+    "wof:lastmodified":1582343860,
     "wof:name":"Evliya Celebi",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

@@ -127,6 +127,9 @@
         "wd:id":"Q6059322"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67f4e399741364cb7f7da3c97c128985",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588216,
+    "wof:lastmodified":1582343861,
     "wof:name":"Ko\u015fuyolu",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

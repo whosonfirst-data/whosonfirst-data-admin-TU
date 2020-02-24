@@ -76,6 +76,9 @@
         "qs_pg:id":473098
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1edca509c21956343e596c85a484786",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588213,
+    "wof:lastmodified":1582343860,
     "wof:name":"19 Mayis",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

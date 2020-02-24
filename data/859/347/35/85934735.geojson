@@ -69,6 +69,10 @@
         "qs_pg:id":884336
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"823b98c1035d1088e07633917d6927b6",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588217,
+    "wof:lastmodified":1582343861,
     "wof:name":"Hizirbey",
     "wof:parent_id":101912783,
     "wof:placetype":"neighbourhood",

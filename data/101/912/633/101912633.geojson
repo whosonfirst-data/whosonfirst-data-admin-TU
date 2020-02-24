@@ -47,6 +47,9 @@
         "qs_pg:id":1337741
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c946709bf83e84d2422e60ea925a869b",
     "wof:hierarchy":[
         {
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101912633,
-    "wof:lastmodified":1566588222,
+    "wof:lastmodified":1582343862,
     "wof:name":"Yenimahalle",
     "wof:parent_id":890462765,
     "wof:placetype":"locality",

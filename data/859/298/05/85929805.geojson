@@ -70,6 +70,9 @@
         "qs_pg:id":1337646
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b401c4e3d7047aa54151dd0b3cb35fb3",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588218,
+    "wof:lastmodified":1582343861,
     "wof:name":"Kirazlitepe",
     "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",

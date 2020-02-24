@@ -78,6 +78,9 @@
         "wd:id":"Q2690028"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2fa9d6abb3b7fd26d79e088637a10768",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588214,
+    "wof:lastmodified":1582343861,
     "wof:name":"Ferikoy",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

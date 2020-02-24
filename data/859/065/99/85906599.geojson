@@ -160,6 +160,9 @@
         "wd:id":"Q3180968"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d381e85d77db94b48e376018b0b9297",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588211,
+    "wof:lastmodified":1582343860,
     "wof:name":"G\u00fclfem Hatun",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

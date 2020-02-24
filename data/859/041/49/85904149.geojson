@@ -137,6 +137,9 @@
         "wd:id":"Q2249546"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a93fcd981d20a7a9c9c4ed55de097c1b",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588209,
+    "wof:lastmodified":1582343860,
     "wof:name":"Ortakoy",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

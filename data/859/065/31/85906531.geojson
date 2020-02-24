@@ -130,6 +130,9 @@
         "wd:id":"Q6069361"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9927ee44b85c8c54ee5c4fe5787ab297",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588210,
+    "wof:lastmodified":1582343860,
     "wof:name":"Piri Pasa",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

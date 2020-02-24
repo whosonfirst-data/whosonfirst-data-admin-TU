@@ -144,6 +144,9 @@
         "wd:id":"Q6601541"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec3624b7b7feb367e605713628fab57f",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588209,
+    "wof:lastmodified":1582343860,
     "wof:name":"Kurucesme",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

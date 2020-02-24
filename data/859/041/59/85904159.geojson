@@ -103,6 +103,9 @@
         "wk:page":"Tophane"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f9338cae9a128ef8430b05ea552dcde7",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588208,
+    "wof:lastmodified":1582343859,
     "wof:name":"Tophane",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

@@ -124,6 +124,9 @@
         "wd:id":"Q6069640"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8c1160c27ffddf19cc574141413c360",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588210,
+    "wof:lastmodified":1582343860,
     "wof:name":"Katip Mustafa \u00c7elebi",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

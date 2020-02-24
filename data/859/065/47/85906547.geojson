@@ -124,6 +124,9 @@
         "wd:id":"Q6073635"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f462ab8dae95a54ae6d681834eb01eb",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588212,
+    "wof:lastmodified":1582343860,
     "wof:name":"Kamer Hatun",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

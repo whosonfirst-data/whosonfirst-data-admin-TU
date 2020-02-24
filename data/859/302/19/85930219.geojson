@@ -83,6 +83,9 @@
         "wd:id":"Q4852587"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"be31a44ab41b3538c1f9d9f6bd641e2c",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588218,
+    "wof:lastmodified":1582343861,
     "wof:name":"Baltalimani",
     "wof:parent_id":101912659,
     "wof:placetype":"neighbourhood",

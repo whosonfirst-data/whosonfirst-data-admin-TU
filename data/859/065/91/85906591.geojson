@@ -74,6 +74,9 @@
         "qs_pg:id":1262742
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1fc98ed2ec6f88a471e24dfe13f5a119",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588211,
+    "wof:lastmodified":1582343860,
     "wof:name":"Selman A\u011fa",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
