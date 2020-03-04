@@ -82,6 +82,10 @@
         "qs_pg:id":204716
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"62ebdc52e3d9f78124ca0c5f6801fca8",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588219,
+    "wof:lastmodified":1582343861,
     "wof:name":"Kizilsaray",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

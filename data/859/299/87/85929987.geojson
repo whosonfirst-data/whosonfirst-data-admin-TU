@@ -80,6 +80,9 @@
         "qs_pg:id":473495
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67efdca35536cdd84c3cd5b6bd23638b",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588221,
+    "wof:lastmodified":1582343862,
     "wof:name":"Atakoy 9-10.",
     "wof:parent_id":101912671,
     "wof:placetype":"neighbourhood",

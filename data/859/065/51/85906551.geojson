@@ -73,6 +73,9 @@
         "qs_pg:id":237748
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3645b9cf0436b52103499688a75bfc0f",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588210,
+    "wof:lastmodified":1582343860,
     "wof:name":"Huseyinaga",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

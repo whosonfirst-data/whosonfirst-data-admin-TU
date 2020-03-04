@@ -148,6 +148,10 @@
         "qs_pg:id":268958
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dfee95384edfa14791781ea130ada6ed",
     "wof:hierarchy":[
         {
@@ -163,7 +167,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588218,
+    "wof:lastmodified":1582343861,
     "wof:name":"Kanal",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

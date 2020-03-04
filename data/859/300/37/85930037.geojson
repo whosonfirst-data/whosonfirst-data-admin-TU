@@ -131,6 +131,9 @@
         "wd:id":"Q6069665"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4fe507fa4630f7343e6de905ba28438d",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588206,
+    "wof:lastmodified":1582343859,
     "wof:name":"\u00c7igdem",
     "wof:parent_id":101912645,
     "wof:placetype":"neighbourhood",

@@ -368,6 +368,9 @@
         "wk:page":"Tekirda\u011f"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"72ae783e135571f315d0fc0dfd7a4c6d",
     "wof:hierarchy":[
         {
@@ -379,7 +382,7 @@
         }
     ],
     "wof:id":101910981,
-    "wof:lastmodified":1566588223,
+    "wof:lastmodified":1582343862,
     "wof:name":"Tekirda\u011f",
     "wof:parent_id":890461857,
     "wof:placetype":"locality",

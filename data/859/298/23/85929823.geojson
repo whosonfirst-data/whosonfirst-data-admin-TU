@@ -81,6 +81,9 @@
         "qs_pg:id":1185486
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7120c840358278a7b504cb70078793b9",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588219,
+    "wof:lastmodified":1582343861,
     "wof:name":"Kepez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

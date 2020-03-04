@@ -69,6 +69,9 @@
         "qs_pg:id":508300
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a78fbf8b23a97056e6589b881b5daf66",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588220,
+    "wof:lastmodified":1582343862,
     "wof:name":"Ortadogu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

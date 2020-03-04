@@ -130,6 +130,9 @@
         "wd:id":"Q6071935"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85c7c6ca17244993dc65d8c2a1f16340",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588211,
+    "wof:lastmodified":1582343860,
     "wof:name":"Sehit Muhtar",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

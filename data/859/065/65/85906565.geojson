@@ -73,6 +73,9 @@
         "qs_pg:id":1087535
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"adb445256b0c31f2367151d0b276dee3",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588211,
+    "wof:lastmodified":1582343860,
     "wof:name":"Visnezade",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

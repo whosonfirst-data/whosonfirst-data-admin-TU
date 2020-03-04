@@ -86,6 +86,10 @@
         "wk:page":"Mandyani River"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d398ab21e5ebca1dc672c66a2115954",
     "wof:hierarchy":[
         {
@@ -101,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588218,
+    "wof:lastmodified":1582343861,
     "wof:name":"Zerdalilik",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

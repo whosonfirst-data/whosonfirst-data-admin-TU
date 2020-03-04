@@ -93,6 +93,9 @@
         "wd:id":"Q1592273"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37893d2328566df2b908ce675fdf8a92",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588209,
+    "wof:lastmodified":1582343859,
     "wof:name":"Harbiye",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

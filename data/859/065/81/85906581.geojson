@@ -76,6 +76,9 @@
         "qs_pg:id":899060
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9132b3ab4a6cd70b09169cd7d5fe4f6",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588210,
+    "wof:lastmodified":1582343860,
     "wof:name":"Mueyyedzade",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

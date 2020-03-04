@@ -136,6 +136,9 @@
         "wd:id":"Q2706262"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c19e4bd703b5fb9966f3d149a6a7641d",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588212,
+    "wof:lastmodified":1582343860,
     "wof:name":"Karakoy",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

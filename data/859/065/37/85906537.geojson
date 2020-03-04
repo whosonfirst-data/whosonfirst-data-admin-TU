@@ -124,6 +124,9 @@
         "wd:id":"Q6070576"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b84e3fb830c6d094e0c31d32d17994a",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588211,
+    "wof:lastmodified":1582343860,
     "wof:name":"Yahya Kahya",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

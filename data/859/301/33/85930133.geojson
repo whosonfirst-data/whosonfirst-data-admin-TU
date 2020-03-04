@@ -106,6 +106,9 @@
         "qs_pg:id":1337746
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10e550f0b177ffe743e14cb4fcd7dec7",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588207,
+    "wof:lastmodified":1582343859,
     "wof:name":"Atat\u00fcrk",
     "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",

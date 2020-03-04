@@ -267,6 +267,9 @@
         "wd:id":"Q1547370"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4cdff1dfa7980ffd9a49720d093d1a5",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588211,
+    "wof:lastmodified":1582343860,
     "wof:name":"Kocatepe",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

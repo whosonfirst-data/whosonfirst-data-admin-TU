@@ -73,6 +73,9 @@
         "qs_pg:id":986664
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d890ce2ea8a54d216414333b1f066e3d",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588215,
+    "wof:lastmodified":1582343861,
     "wof:name":"Kultur",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

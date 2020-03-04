@@ -78,6 +78,10 @@
         "wk:page":"Kleine Sinn"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f11c18772970dac34c863dbaf228ee3",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588207,
+    "wof:lastmodified":1582343859,
     "wof:name":"G\u00fcvenlik",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

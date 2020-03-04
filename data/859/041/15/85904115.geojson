@@ -217,6 +217,9 @@
         "wd:id":"Q932886"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"71e21bfd2439cc81e9f4fbb0dd1d9d05",
     "wof:hierarchy":[
         {
@@ -232,7 +235,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588209,
+    "wof:lastmodified":1582343860,
     "wof:name":"Kadik\u00f6y",
     "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",

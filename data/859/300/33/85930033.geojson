@@ -73,6 +73,9 @@
         "gp:id":55871087
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"85ec42be486ff6ccfeb4744eb65d863a",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588206,
+    "wof:lastmodified":1582343859,
     "wof:name":"Tuzcular",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

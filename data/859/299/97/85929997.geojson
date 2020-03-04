@@ -140,6 +140,9 @@
         "wd:id":"Q6068876"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60283f612cc0089249d4763e909b4742",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588222,
+    "wof:lastmodified":1582343862,
     "wof:name":"\u00c7inar",
     "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",

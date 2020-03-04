@@ -111,6 +111,9 @@
         "wd:id":"Q419132"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7345295bb37bf88768b37f6087e04f43",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588209,
+    "wof:lastmodified":1582343860,
     "wof:name":"Yeni\u015fehir",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

@@ -99,6 +99,9 @@
         "wd:id":"Q3300867"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b299b14ea6f1a2187588291dfb6524b",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588212,
+    "wof:lastmodified":1582343860,
     "wof:name":"Cihangir",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

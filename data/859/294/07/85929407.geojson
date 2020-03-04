@@ -124,6 +124,9 @@
         "wd:id":"Q6078425"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"88edb5c3729f3170832d5d49094f91d8",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588214,
+    "wof:lastmodified":1582343861,
     "wof:name":"Gayrettepe",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

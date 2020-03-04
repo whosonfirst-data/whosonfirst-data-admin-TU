@@ -73,6 +73,10 @@
         "qs_pg:id":1115476
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed6cf9ded4409b482944b6dfc36094c0",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588207,
+    "wof:lastmodified":1582343859,
     "wof:name":"Hasim Sican",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

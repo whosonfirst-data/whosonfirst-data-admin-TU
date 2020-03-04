@@ -94,6 +94,9 @@
         "wk:page":"Etiler"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4774108c6cb4ab543ee3a5e1f5b71a3",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588207,
+    "wof:lastmodified":1582343859,
     "wof:name":"Etiler",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

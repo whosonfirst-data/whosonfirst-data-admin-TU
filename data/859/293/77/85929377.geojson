@@ -83,6 +83,9 @@
         "qs_pg:id":1090111
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a85339caaaa3898e59def70a4602f13",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588216,
+    "wof:lastmodified":1582343861,
     "wof:name":"Murat Reis",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

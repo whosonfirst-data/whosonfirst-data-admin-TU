@@ -171,6 +171,9 @@
         "wd:id":"Q328331"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d83f70f71d6675e892cdf1d6f6f13857",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588207,
+    "wof:lastmodified":1582343859,
     "wof:name":"Fevzi Cakmak",
     "wof:parent_id":101912671,
     "wof:placetype":"neighbourhood",

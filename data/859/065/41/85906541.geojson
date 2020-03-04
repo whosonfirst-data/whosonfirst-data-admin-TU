@@ -79,6 +79,9 @@
         "qs_pg:id":14471
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"170a82bd990cf20a37ef986a1afdabfd",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588212,
+    "wof:lastmodified":1582343860,
     "wof:name":"Catma Mescit",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

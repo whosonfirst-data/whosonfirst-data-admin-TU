@@ -130,6 +130,9 @@
         "wd:id":"Q6058785"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"353338541ab10029c3a9c6d114054fac",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101912681,
-    "wof:lastmodified":1566588222,
+    "wof:lastmodified":1582343862,
     "wof:name":"Caddebostan",
     "wof:parent_id":890462627,
     "wof:placetype":"locality",

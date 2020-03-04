@@ -98,6 +98,9 @@
         "wk:page":"Y\u0131ld\u0131z"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd9d0ab41c84379f4a0c8df482c27df6",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588208,
+    "wof:lastmodified":1582343859,
     "wof:name":"Yildiz",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

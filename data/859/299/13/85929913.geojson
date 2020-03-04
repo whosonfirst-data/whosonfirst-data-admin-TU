@@ -92,6 +92,10 @@
         "wk:page":"Esfezar"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3aedd75141d8cca69f02df42f80ee45",
     "wof:hierarchy":[
         {
@@ -107,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566588222,
+    "wof:lastmodified":1582343862,
     "wof:name":"K\u00fclt\u00fcr",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

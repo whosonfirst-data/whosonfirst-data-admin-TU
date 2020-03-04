@@ -158,6 +158,9 @@
         "wd:id":"Q6079063"
     },
     "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef4e6d6f7bd3c1c21f653f8c8cd6201d",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566588215,
+    "wof:lastmodified":1582343861,
     "wof:name":"Ulus",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",
